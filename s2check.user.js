@@ -2,11 +2,10 @@
 // @id           s2check@alfonsoml
 // @name         Pogo Tools
 // @category     Layer
-// @namespace    https://gitlab.com/AlfonsoML/pogo-s2/
-// @downloadURL  https://gitlab.com/AlfonsoML/pogo-s2/raw/master/s2check.user.js
-// @homepageURL  https://gitlab.com/AlfonsoML/pogo-s2/
-// @supportURL   https://twitter.com/PogoCells
-// @version      0.69
+// @namespace    https://github.com/NHellFire/cambridge-iitc-pogo-s2
+// @downloadURL  https://github.com/NHellFire/cambridge-iitc-pogo-s2/raw/master/s2check.user.js
+// @homepageURL  https://github.com/NHellFire/cambridge-iitc-pogo-s2
+// @version      0.69.1
 // @description  Pokemon Go tools over IITC. News on https://twitter.com/PogoCells
 // @author       Alfonso M.
 // @match        https://www.ingress.com/intel*
@@ -780,11 +779,11 @@ function initSvgIcon() {
 		const keys = Object.keys(data);
 		const contents = keys.map(id => {
 			const gym = data[id];
-			return (gym.name ? gym.name.replace(/,/g, ' ') + ',' : '') + gym.lat + ',' + gym.lng;
+			return '"' + gym.name.replace(/"/g, '""') + '"' + ',' + gym.lat + ',' + gym.lng;
 		});
 		const filename = title + '_' + new Date().getTime() + '.csv';
 
-		saveToFile(contents.join('\n'), filename);
+		saveToFile('Name,Latitude,Longitude\r\n' + contents.join('\r\n'), filename);
 	}
 
 	function configureGridLevelSelect(select, i) {
@@ -1457,6 +1456,7 @@ function initSvgIcon() {
 		const content = `<div id="pogoSetbox">
 			<a id="save-json" title="Save as a JSON file the data about the Gyms and Pokestops on screen">Save Gyms and Stops as JSON</a>
 			<a id="save-gymscsv" title="Save as a CSV file the data about the Gyms on screen">Save Gyms as CSV</a>
+			<a id="save-pokestopscsv" title="Save as a CSV file the data about the Gyms on screen">Save Pokestops as CSV</a>
 			<a onclick="window.plugin.pogo.optReset();return false;" title="Deletes all Pokemon Go markers">Reset PoGo portals</a>
 			<a onclick="window.plugin.pogo.optImport();return false;" title="Import a JSON file with all the PoGo data">Import pogo</a>
 			<a onclick="window.plugin.pogo.optExport();return false;" title="Exports a JSON file with all the PoGo data">Export pogo</a>
@@ -1470,6 +1470,7 @@ function initSvgIcon() {
 		const div = container[0];
 		div.querySelector('#save-json').addEventListener('click', e => saveGymStopsJSON());
 		div.querySelector('#save-gymscsv').addEventListener('click', e => saveCSV(gyms, 'Gyms'));
+        div.querySelector('#save-pokestopscsv').addEventListener('click', e => saveCSV(pokestops, 'Pokestops'));
 	};
 
 	thisPlugin.optAlert = function (message) {
