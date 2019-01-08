@@ -1,1113 +1,1407 @@
 {
-   "notpogo" : {
-      "c14b89077e6340989e6f58b632075631.16" : {
-         "name" : "Trumpington Community Noticeboard",
-         "lng" : 0.113382,
-         "lat" : 52.172988,
-         "guid" : "c14b89077e6340989e6f58b632075631.16"
-      }
-   },
-   "gyms" : {
-      "84b8e6093c5143eeb583a8f74ee92533.11" : {
-         "lng" : 0.121927,
-         "name" : "Christ's College Gate",
-         "lat" : 52.205296,
-         "guid" : "84b8e6093c5143eeb583a8f74ee92533.11"
-      },
-      "1ea9411d21b54492b83e96c9e3d2c632.16" : {
-         "name" : "Systematic Beds of Herbaceous Plants",
-         "lng" : 0.124594,
-         "lat" : 52.193242,
-         "guid" : "1ea9411d21b54492b83e96c9e3d2c632.16"
-      },
-      "1a00dee85cb54765b2019f3a13796157.16" : {
-         "guid" : "1a00dee85cb54765b2019f3a13796157.16",
-         "lat" : 52.205853,
-         "lng" : 0.120715,
-         "name" : "Holy Trinity War Memorial"
-      },
-      "8517a9d3a4d44ccf9477674fac5d2865.16" : {
-         "lat" : 52.207373,
-         "guid" : "8517a9d3a4d44ccf9477674fac5d2865.16",
-         "name" : "The Hopbine",
-         "lng" : 0.129274
-      },
-      "a7b347daf05244ca815a3285a6f3e8f4.16" : {
-         "guid" : "a7b347daf05244ca815a3285a6f3e8f4.16",
-         "lat" : 52.204797,
-         "lng" : 0.136495,
-         "name" : "Blue Moon Pub"
-      },
-      "93d49f46d9d24bc9b1f1e648a6144721.16" : {
-         "lat" : 52.16617,
-         "guid" : "93d49f46d9d24bc9b1f1e648a6144721.16",
-         "lng" : 0.123393,
-         "name" : "Kingfisher Gardens Play Area "
-      },
-      "a3cadddb6e7b4951a317da9bcd8c683e.16" : {
-         "lng" : 0.110668,
-         "name" : "Lord Byron Inn",
-         "guid" : "a3cadddb6e7b4951a317da9bcd8c683e.16",
-         "lat" : 52.174347
-      },
-      "38993cd1d59c4ff3919ca7fcc6b18802.16" : {
-         "guid" : "38993cd1d59c4ff3919ca7fcc6b18802.16",
-         "lat" : 52.19367,
-         "name" : "Fountain at Cambridge University Botanic Garden",
-         "lng" : 0.126896
-      },
-      "05353944ffcc4bf5a912d5cff779124c.16" : {
-         "guid" : "05353944ffcc4bf5a912d5cff779124c.16",
-         "lat" : 52.21151,
-         "name" : "Castle Street Methodist Church ",
-         "lng" : 0.113788
-      },
-      "3a662e381efc40ef87aa5915c1bb5835.16" : {
-         "name" : "Downing College Back Gate",
-         "lng" : 0.125462,
-         "guid" : "3a662e381efc40ef87aa5915c1bb5835.16",
-         "lat" : 52.198577
-      },
-      "0ed2eb1ca6cc4a99a04b87ef89055253.16" : {
-         "guid" : "0ed2eb1ca6cc4a99a04b87ef89055253.16",
-         "lat" : 52.107634,
-         "name" : "Shepreth L-Moor",
-         "lng" : 0.018685
-      },
-      "71d39025249849959e2bbe70986ce9a7.16" : {
-         "lat" : 52.16786,
-         "guid" : "71d39025249849959e2bbe70986ce9a7.16",
-         "lng" : 0.107272,
-         "name" : "Oak Information Sculpture"
-      },
-      "dc178fc91eef4ad2a27e82754e983eed.16" : {
-         "lat" : 52.169817,
-         "guid" : "dc178fc91eef4ad2a27e82754e983eed.16",
-         "lng" : 0.11069,
-         "name" : "Holey Rock of Trumpington Meadows "
-      },
-      "11dbf4acb53141029cc16d8f57093363.16" : {
-         "lng" : 0.03684,
-         "name" : "Elephant Sculpture",
-         "guid" : "11dbf4acb53141029cc16d8f57093363.16",
-         "lat" : 52.114703
-      },
-      "0d878086c64f4966829da5a7ee4c3b6d.11" : {
-         "name" : "Saint Mary and Saint Michaels",
-         "lng" : 0.10867,
-         "lat" : 52.17387,
-         "guid" : "0d878086c64f4966829da5a7ee4c3b6d.11"
-      },
-      "fb9cd2514d5b42dea2c338dc3c00117c.16" : {
-         "lng" : 0.13684,
-         "name" : "Giant Anchor",
-         "lat" : 52.21127,
-         "guid" : "fb9cd2514d5b42dea2c338dc3c00117c.16"
-      },
-      "912c96f2e38641ef9f8c700b00c786b8.16" : {
-         "name" : "Shepreth Train Station",
-         "lng" : 0.03126,
-         "lat" : 52.11416,
-         "guid" : "912c96f2e38641ef9f8c700b00c786b8.16"
-      },
-      "ccf2c47d739847339924ab1f40cab81e.11" : {
-         "lat" : 52.199022,
-         "guid" : "ccf2c47d739847339924ab1f40cab81e.11",
-         "lng" : 0.12739,
-         "name" : "Our Lady and English Martyrs Church"
-      },
-      "8247839b7101462d8f8cd777da0b50c6.16" : {
-         "name" : "All Saints Cross",
-         "lng" : 0.118282,
-         "guid" : "8247839b7101462d8f8cd777da0b50c6.16",
-         "lat" : 52.207477
-      },
-      "0ecabc20667c461bba4d0680344a1721.16" : {
-         "lat" : 52.200536,
-         "guid" : "0ecabc20667c461bba4d0680344a1721.16",
-         "name" : "The Locust",
-         "lng" : 0.129297
-      },
-      "6e469e8ab42a4a3fa2d95c6eb1b835b5.11" : {
-         "guid" : "6e469e8ab42a4a3fa2d95c6eb1b835b5.11",
-         "lat" : 52.202171,
-         "name" : "Reality Checkpoint",
-         "lng" : 0.128176
-      },
-      "b359800aae8a4fa1a05158a9c730056d.16" : {
-         "lng" : 0.120757,
-         "name" : "David Gregory Marshall MBE",
-         "guid" : "b359800aae8a4fa1a05158a9c730056d.16",
-         "lat" : 52.20853
-      },
-      "8a6321c7a67f481cb6f37ad98a8e0cfd.16" : {
-         "guid" : "8a6321c7a67f481cb6f37ad98a8e0cfd.16",
-         "lat" : 52.112692,
-         "name" : "Shepreth Village Hall",
-         "lng" : 0.03272
-      },
-      "75c58fdc7602466291a168a6bfabe9f7.16" : {
-         "name" : "Collins Close Playground",
-         "lng" : 0.028463,
-         "guid" : "75c58fdc7602466291a168a6bfabe9f7.16",
-         "lat" : 52.111612
-      },
-      "c2c86667c6a24b489759341c60a2aebc.16" : {
-         "lat" : 52.202438,
-         "guid" : "c2c86667c6a24b489759341c60a2aebc.16",
-         "name" : "The Laws Of The University Football Club",
-         "lng" : 0.130537
-      },
-      "f99afb282f2340ccbbb7b6c203197db4.16" : {
-         "lng" : 0.120085,
-         "name" : "ADC Theatre",
-         "lat" : 52.208551,
-         "guid" : "f99afb282f2340ccbbb7b6c203197db4.16"
-      },
-      "bd261ad719ff4824a87e20f5c3562680.16" : {
-         "name" : "The Dawn Redwood",
-         "lng" : 0.123985,
-         "guid" : "bd261ad719ff4824a87e20f5c3562680.16",
-         "lat" : 52.193682
-      },
-      "8082b941e0914fdbb1cea3505ea01296.11" : {
-         "lat" : 52.175436,
-         "guid" : "8082b941e0914fdbb1cea3505ea01296.11",
-         "name" : "Trumpington War Memorial",
-         "lng" : 0.11257
-      },
-      "af0f0837dfec4e19b26ce60b6b7cc053.16" : {
-         "lat" : 52.194297,
-         "guid" : "af0f0837dfec4e19b26ce60b6b7cc053.16",
-         "name" : "Cambridge Gardens Greenhouse",
-         "lng" : 0.12637
-      },
-      "968ef9ff4b484a1c9a00a3d00627444c.16" : {
-         "lat" : 52.108106,
-         "guid" : "968ef9ff4b484a1c9a00a3d00627444c.16",
-         "name" : "All Saints Church, Shepreth",
-         "lng" : 0.032209
-      },
-      "bd16233feadb4f448b6581110cff999d.16" : {
-         "name" : "Flying Pig",
-         "lng" : 0.131756,
-         "guid" : "bd16233feadb4f448b6581110cff999d.16",
-         "lat" : 52.194472
-      },
-      "98dd11e67afe40608e60a75217c61b40.16" : {
-         "name" : "Byron's Pool",
-         "lng" : 0.102155,
-         "lat" : 52.172995,
-         "guid" : "98dd11e67afe40608e60a75217c61b40.16"
-      },
-      "b2822612498543b0a031725421ddf0e9.16" : {
-         "name" : "Fabulous Toilets",
-         "lng" : 0.128138,
-         "guid" : "b2822612498543b0a031725421ddf0e9.16",
-         "lat" : 52.200045
-      },
-      "5b2d8eb598ba4ab0ab3732326ddb11d9.16" : {
-         "name" : "Kett House Tree",
-         "lng" : 0.131599,
-         "guid" : "5b2d8eb598ba4ab0ab3732326ddb11d9.16",
-         "lat" : 52.194842
-      },
-      "5da1331c45884b8883f4f306be108bc0.16" : {
-         "guid" : "5da1331c45884b8883f4f306be108bc0.16",
-         "lat" : 52.207314,
-         "lng" : 0.124419,
-         "name" : "Champion of the Thames "
-      },
-      "cac0733799a64a6cb90f6f4e88174d72.16" : {
-         "lng" : 0.13871,
-         "name" : "Spiky Post Box",
-         "lat" : 52.21096,
-         "guid" : "cac0733799a64a6cb90f6f4e88174d72.16"
-      },
-      "2828feeb04f842bcaefe31d8cf2e12fd.11" : {
-         "lat" : 52.202182,
-         "guid" : "2828feeb04f842bcaefe31d8cf2e12fd.11",
-         "name" : "Skate Park",
-         "lng" : 0.131224
-      },
-      "9abaf5d688704f8c820cdc26791b791f.16" : {
-         "lat" : 52.1735,
-         "guid" : "9abaf5d688704f8c820cdc26791b791f.16",
-         "lng" : 0.139554,
-         "name" : "Sculpture at Rosie Hospital "
-      },
-      "44daf597040d470a81f878481558a2fb.16" : {
-         "guid" : "44daf597040d470a81f878481558a2fb.16",
-         "lat" : 52.172806,
-         "lng" : 0.115321,
-         "name" : "Trumpington Pavillion"
-      },
-      "9c9551d636aa43daaa789df448d45dcc.11" : {
-         "lat" : 52.208433,
-         "guid" : "9c9551d636aa43daaa789df448d45dcc.11",
-         "lng" : 0.118868,
-         "name" : "Round Church"
-      }
-   },
-   "ignoredCellsExtraGyms" : {},
-   "pokestops" : {
-      "d7ee8e404d62427889f7a2972d850da3.16" : {
-         "name" : "Trumpington Meadows Carved Rabbit",
-         "lng" : 0.099884,
-         "guid" : "d7ee8e404d62427889f7a2972d850da3.16",
-         "lat" : 52.170356
-      },
-      "e97c7c4028e24b608d49b6df38706a6b.16" : {
-         "lng" : 0.125883,
-         "name" : "University Arms Hotel",
-         "lat" : 52.202256,
-         "guid" : "e97c7c4028e24b608d49b6df38706a6b.16"
-      },
-      "95b79ad3597f423183a8480742a6d573.11" : {
-         "guid" : "95b79ad3597f423183a8480742a6d573.11",
-         "lat" : 52.201882,
-         "name" : "Betty Rea's Swimmers",
-         "lng" : 0.131852
-      },
-      "e2a0717362d448d3a990151eb4dd5b2a.16" : {
-         "name" : "Thatch Bunny",
-         "lng" : 0.112588,
-         "guid" : "e2a0717362d448d3a990151eb4dd5b2a.16",
-         "lat" : 52.173651
-      },
-      "2cbf635377384744a28b66fe6a2ca613.16" : {
-         "name" : "The Steve Prentis Bench",
-         "lng" : 0.125766,
-         "guid" : "2cbf635377384744a28b66fe6a2ca613.16",
-         "lat" : 52.192245
-      },
-      "6962f1394cf044a3af2d559d26bf622b.16" : {
-         "lng" : 0.118075,
-         "name" : "Helix",
-         "guid" : "6962f1394cf044a3af2d559d26bf622b.16",
-         "lat" : 52.21021
-      },
-      "15c2e746b63c4336b506302afb9d8b25.16" : {
-         "name" : "Cambridge Core",
-         "lng" : 0.115186,
-         "lat" : 52.210723,
-         "guid" : "15c2e746b63c4336b506302afb9d8b25.16"
-      },
-      "d92854f0557046fb9475257e7330a23d.16" : {
-         "lng" : 0.135055,
-         "name" : "Kinetic Sculpture",
-         "lat" : 52.206259,
-         "guid" : "d92854f0557046fb9475257e7330a23d.16"
-      },
-      "19f595ad49174dfa94f77cf53fe2ef57.16" : {
-         "lat" : 52.206655,
-         "guid" : "19f595ad49174dfa94f77cf53fe2ef57.16",
-         "name" : "Green Street Leaf Tile",
-         "lng" : 0.119154
-      },
-      "9c91b83ab0ad49dfb7eb89ea7afe8b58.16" : {
-         "lng" : 0.122147,
-         "name" : "Clay Farm Centre",
-         "guid" : "9c91b83ab0ad49dfb7eb89ea7afe8b58.16",
-         "lat" : 52.173496
-      },
-      "e04dd2db01ec4749b18ad0f0a0b89dfb.12" : {
-         "lng" : 0.118587,
-         "name" : "Soldier: Suffolk Regiment",
-         "guid" : "e04dd2db01ec4749b18ad0f0a0b89dfb.12",
-         "lat" : 52.205332
-      },
-      "8d7c4f7c4ea246c3a7003f5b22d07094.11" : {
-         "lng" : 0.125912,
-         "name" : "Dragon Statues",
-         "guid" : "8d7c4f7c4ea246c3a7003f5b22d07094.11",
-         "lat" : 52.196208
-      },
-      "875b8dad95af4673a73b1fe894087cd0.12" : {
-         "lng" : 0.11787,
-         "name" : "St. John's Side Entrance",
-         "guid" : "875b8dad95af4673a73b1fe894087cd0.12",
-         "lat" : 52.208694
-      },
-      "df3bd7b590934671b465e51ff3f9c9c1.11" : {
-         "lng" : 0.126375,
-         "name" : "Youth - Lux Perpetua Luceat eis",
-         "guid" : "df3bd7b590934671b465e51ff3f9c9c1.11",
-         "lat" : 52.198537
-      },
-      "a47640fa084a47a28b0803f3d80a7e39.16" : {
-         "lng" : 0.12364,
-         "name" : "Cornwell Road Play Area ",
-         "guid" : "a47640fa084a47a28b0803f3d80a7e39.16",
-         "lat" : 52.168437
-      },
-      "f60e1e3d53604f7c9c1b785d8704cc1e.16" : {
-         "guid" : "f60e1e3d53604f7c9c1b785d8704cc1e.16",
-         "lat" : 52.194154,
-         "lng" : 0.123906,
-         "name" : "Peter's Seat"
-      },
-      "03adecd9f8424c02b5eac3d93e262c36.16" : {
-         "name" : "Shepreth War Memorial",
-         "lng" : 0.032374,
-         "guid" : "03adecd9f8424c02b5eac3d93e262c36.16",
-         "lat" : 52.112196
-      },
-      "ef7a0f95dbf941c6ad2ab68347025bf2.16" : {
-         "guid" : "ef7a0f95dbf941c6ad2ab68347025bf2.16",
-         "lat" : 52.201569,
-         "lng" : 0.121165,
-         "name" : "Sundial"
-      },
-      "7155ab127fce4831907c5056560c0990.16" : {
-         "name" : "Pots and Pans at D Arrys Original",
-         "lng" : 0.121578,
-         "lat" : 52.207247,
-         "guid" : "7155ab127fce4831907c5056560c0990.16"
-      },
-      "a12100163f6d4934b271349d9f972581.12" : {
-         "lng" : 0.116665,
-         "name" : "Trinity College Back Gate",
-         "lat" : 52.206433,
-         "guid" : "a12100163f6d4934b271349d9f972581.12"
-      },
-      "140c402f99da4246887345b8cd6a0eaa.16" : {
-         "name" : "Shepreth Village Sign",
-         "lng" : 0.032064,
-         "lat" : 52.112121,
-         "guid" : "140c402f99da4246887345b8cd6a0eaa.16"
-      },
-      "3fce11cd8cf5411c972b20b0902d1063.16" : {
-         "guid" : "3fce11cd8cf5411c972b20b0902d1063.16",
-         "lat" : 52.169312,
-         "name" : "Baaaa",
-         "lng" : 0.119966
-      },
-      "08fd2a739b49406b9c9430e733362503.16" : {
-         "guid" : "08fd2a739b49406b9c9430e733362503.16",
-         "lat" : 52.207257,
-         "name" : "King Street Run",
-         "lng" : 0.125214
-      },
-      "1d88ec1ed7094424ac135b28f4d1d4e0.16" : {
-         "name" : "Parker's Piece South Entrance",
-         "lng" : 0.125337,
-         "lat" : 52.201887,
-         "guid" : "1d88ec1ed7094424ac135b28f4d1d4e0.16"
-      },
-      "827da88a346e4c4799c003742376c7a4.16" : {
-         "lng" : 0.127232,
-         "name" : "Lloyds Horse",
-         "lat" : 52.199587,
-         "guid" : "827da88a346e4c4799c003742376c7a4.16"
-      },
-      "c2a45484205249ac98eccdc8df4658b8.16" : {
-         "guid" : "c2a45484205249ac98eccdc8df4658b8.16",
-         "lat" : 52.176893,
-         "name" : "The Coach & Horses",
-         "lng" : 0.112829
-      },
-      "bafbdc85e4a84452bf5d895325c0456f.16" : {
-         "lng" : 0.125232,
-         "name" : "Downing College Gate",
-         "guid" : "bafbdc85e4a84452bf5d895325c0456f.16",
-         "lat" : 52.201493
-      },
-      "40a880d22e084c5aa12bc5f298833c30.16" : {
-         "lng" : 0.117326,
-         "name" : "Garde Ta Foy",
-         "lat" : 52.210146,
-         "guid" : "40a880d22e084c5aa12bc5f298833c30.16"
-      },
-      "3cbdddc355bd46e996dfd1f7856d7547.16" : {
-         "lng" : 0.121621,
-         "name" : "Department of Pathology",
-         "lat" : 52.2011,
-         "guid" : "3cbdddc355bd46e996dfd1f7856d7547.16"
-      },
-      "be30e814f5044c15aa24fb2c6f294994.16" : {
-         "guid" : "be30e814f5044c15aa24fb2c6f294994.16",
-         "lat" : 52.194731,
-         "name" : "Lilian Bench in Botanic Garden",
-         "lng" : 0.123994
-      },
-      "fa69ea9289fd433295ce95b12e744578.11" : {
-         "guid" : "fa69ea9289fd433295ce95b12e744578.11",
-         "lat" : 52.198677,
-         "lng" : 0.123044,
-         "name" : "Gurdon Institute"
-      },
-      "58df2ff0755b40408b98eed7797ea412.16" : {
-         "guid" : "58df2ff0755b40408b98eed7797ea412.16",
-         "lat" : 52.206559,
-         "lng" : 0.130031,
-         "name" : "Reston House A.D. 1957"
-      },
-      "1b2e08a713f44cb2bb6752c005318df8.16" : {
-         "name" : "Old Police Station",
-         "lng" : 0.124293,
-         "lat" : 52.202487,
-         "guid" : "1b2e08a713f44cb2bb6752c005318df8.16"
-      },
-      "47aa1406481b4c6abd18346238210f5d.16" : {
-         "lat" : 52.194676,
-         "guid" : "47aa1406481b4c6abd18346238210f5d.16",
-         "lng" : 0.125085,
-         "name" : "John Stevens Henslow"
-      },
-      "262e8e5080ff4a1c92fe051891714216.16" : {
-         "lng" : 0.120816,
-         "name" : "Regional Architecture Award 1998",
-         "guid" : "262e8e5080ff4a1c92fe051891714216.16",
-         "lat" : 52.201815
-      },
-      "62626a895a88442ea922438b823216e4.11" : {
-         "lng" : 0.117195,
-         "name" : "Stephen Hawking's Room",
-         "guid" : "62626a895a88442ea922438b823216e4.11",
-         "lat" : 52.205745
-      },
-      "90c4cb4fe5ba4826b9524f5d7c480012.16" : {
-         "lat" : 52.192836,
-         "guid" : "90c4cb4fe5ba4826b9524f5d7c480012.16",
-         "name" : "Sidney and May Miller",
-         "lng" : 0.126972
-      },
-      "0af083c052354424b31b9c1a6712cf97.16" : {
-         "lat" : 52.20075,
-         "guid" : "0af083c052354424b31b9c1a6712cf97.16",
-         "lng" : 0.126629,
-         "name" : "The Grain and Hop Store"
-      },
-      "f3ea3b172ca24fb2a3219b9930757477.16" : {
-         "lng" : 0.09842,
-         "name" : "Byron’s Pool Fish Pass",
-         "lat" : 52.171018,
-         "guid" : "f3ea3b172ca24fb2a3219b9930757477.16"
-      },
-      "25337bac5fa745d6a1987269467706f6.16" : {
-         "lat" : 52.193398,
-         "guid" : "25337bac5fa745d6a1987269467706f6.16",
-         "lng" : 0.134866,
-         "name" : "Warren Close Garden"
-      },
-      "5f69e362f07b43529b6a12ac192a9d4c.11" : {
-         "lat" : 52.206918,
-         "guid" : "5f69e362f07b43529b6a12ac192a9d4c.11",
-         "name" : "Cambridge Crown Court",
-         "lng" : 0.136581
-      },
-      "2547228e946c4a5abb8716a88202e8b7.16" : {
-         "lat" : 52.194609,
-         "guid" : "2547228e946c4a5abb8716a88202e8b7.16",
-         "lng" : 0.123295,
-         "name" : "Sir Isaac Newton's Apple"
-      },
-      "c78f715a11d646118206024742a15512.16" : {
-         "name" : "Cambridge Heidelberg Partnership",
-         "lng" : 0.132871,
-         "guid" : "c78f715a11d646118206024742a15512.16",
-         "lat" : 52.206767
-      },
-      "e7da9227d93f416c8e5c4ee3ed6fedb1.16" : {
-         "name" : "Old Bicycle Shop",
-         "lng" : 0.126908,
-         "lat" : 52.199649,
-         "guid" : "e7da9227d93f416c8e5c4ee3ed6fedb1.16"
-      },
-      "aa33fa2b18894767a5f1414e32056f11.16" : {
-         "lat" : 52.194627,
-         "guid" : "aa33fa2b18894767a5f1414e32056f11.16",
-         "lng" : 0.134887,
-         "name" : "Microsoft's Building Art"
-      },
-      "fb746fc7d9444943a39b34a89ddabd5a.16" : {
-         "guid" : "fb746fc7d9444943a39b34a89ddabd5a.16",
-         "lat" : 52.208332,
-         "name" : "Cambridge Souvenir Le Souvient Gates",
-         "lng" : 0.118237
-      },
-      "3d76b1fea0524b56bbbd9490bf687204.16" : {
-         "guid" : "3d76b1fea0524b56bbbd9490bf687204.16",
-         "lat" : 52.19995,
-         "name" : "Judge Business School",
-         "lng" : 0.121638
-      },
-      "567b3ed8229142a8ad3964f522608bf4.16" : {
-         "lng" : 0.134358,
-         "name" : "Basque Refugee Plaque",
-         "guid" : "567b3ed8229142a8ad3964f522608bf4.16",
-         "lat" : 52.194864
-      },
-      "586f2dbded5f4aed871cbdcb8f7da793.16" : {
-         "guid" : "586f2dbded5f4aed871cbdcb8f7da793.16",
-         "lat" : 52.209703,
-         "lng" : 0.118854,
-         "name" : "Hawk's Club"
-      },
-      "f19cbfa12fb04a01b1caa92b19f5b08d.16" : {
-         "lng" : 0.123145,
-         "name" : "Harry Lintott Chair",
-         "guid" : "f19cbfa12fb04a01b1caa92b19f5b08d.16",
-         "lat" : 52.194095
-      },
-      "c1d0050e81c5440484a009b295eeaa1a.16" : {
-         "lng" : 0.13145,
-         "name" : "Parkside Mosaic",
-         "lat" : 52.201281,
-         "guid" : "c1d0050e81c5440484a009b295eeaa1a.16"
-      },
-      "057d3b1b774e461eb5818b91b8b44d3f.16" : {
-         "lng" : 0.122145,
-         "name" : "Woolly Mammoth",
-         "lat" : 52.203109,
-         "guid" : "057d3b1b774e461eb5818b91b8b44d3f.16"
-      },
-      "9e1476a7b7aa48e4ad367943693ed88e.16" : {
-         "lng" : 0.136961,
-         "name" : "Compass House",
-         "lat" : 52.207871,
-         "guid" : "9e1476a7b7aa48e4ad367943693ed88e.16"
-      },
-      "e2cc013ef3e3412392445072c080bd22.16" : {
-         "lat" : 52.113287,
-         "guid" : "e2cc013ef3e3412392445072c080bd22.16",
-         "lng" : 0.034009,
-         "name" : "Shepreth Playground"
-      },
-      "f5bb8b43a38e4e919104c12e4b3cd2df.16" : {
-         "lat" : 52.202699,
-         "guid" : "f5bb8b43a38e4e919104c12e4b3cd2df.16",
-         "name" : "St Andrew's Church",
-         "lng" : 0.124088
-      },
-      "8812a9368a75460a93a36e1f01f6e745.11" : {
-         "name" : "The Eagle",
-         "lng" : 0.118064,
-         "guid" : "8812a9368a75460a93a36e1f01f6e745.11",
-         "lat" : 52.203922
-      },
-      "cba43979e5e2444b9ffbd2d7abfb5e4e.16" : {
-         "lat" : 52.206787,
-         "guid" : "cba43979e5e2444b9ffbd2d7abfb5e4e.16",
-         "lng" : 0.130428,
-         "name" : "Bandstand on Roof of Old Cooperative Society"
-      },
-      "9a864d32aa5449f5afdcb41565c85251.16" : {
-         "lat" : 52.207118,
-         "guid" : "9a864d32aa5449f5afdcb41565c85251.16",
-         "name" : "Sidney Sussex Lodge",
-         "lng" : 0.119988
-      },
-      "4809a43c46fa44bab11a1b6fce8ab025.16" : {
-         "guid" : "4809a43c46fa44bab11a1b6fce8ab025.16",
-         "lat" : 52.207704,
-         "lng" : 0.11928,
-         "name" : "Guardian Lions"
-      },
-      "e9fb8189a729442e9f50da1b5e7fe116.16" : {
-         "guid" : "e9fb8189a729442e9f50da1b5e7fe116.16",
-         "lat" : 52.193986,
-         "lng" : 0.128377,
-         "name" : "Engraved Artwork at the Garden Cafe"
-      },
-      "1c976ef6716c413f9f4c5a80331840aa.16" : {
-         "guid" : "1c976ef6716c413f9f4c5a80331840aa.16",
-         "lat" : 52.194967,
-         "lng" : 0.130599,
-         "name" : "Melanie S. Primmer"
-      },
-      "7e31057ecd8f466b8ccfa0f337f0e0b7.16" : {
-         "name" : "Trumpington Meadows Nature Reserve",
-         "lng" : 0.105356,
-         "lat" : 52.172534,
-         "guid" : "7e31057ecd8f466b8ccfa0f337f0e0b7.16"
-      },
-      "2acdf94f55094694b670f9b3c67ac23e.16" : {
-         "name" : "The Trumpington Shield",
-         "lng" : 0.112447,
-         "lat" : 52.172558,
-         "guid" : "2acdf94f55094694b670f9b3c67ac23e.16"
-      },
-      "29ae4c65709f421faa45893e955f674a.16" : {
-         "lat" : 52.165155,
-         "guid" : "29ae4c65709f421faa45893e955f674a.16",
-         "lng" : 0.106812,
-         "name" : "Three Miles to Cambridge"
-      },
-      "c8f1d36227c542ea8219c4741c466cdb.16" : {
-         "lng" : 0.121966,
-         "name" : "Stone Sculptures On Skylark Road ",
-         "lat" : 52.166838,
-         "guid" : "c8f1d36227c542ea8219c4741c466cdb.16"
-      },
-      "b899fb21f2bf4e03a949e3c71fb75186.16" : {
-         "lat" : 52.169716,
-         "guid" : "b899fb21f2bf4e03a949e3c71fb75186.16",
-         "name" : "Hobson Road Play Area",
-         "lng" : 0.121254
-      },
-      "f97dc87da796491ebcecfc8a1435c879.16" : {
-         "name" : "The Green Man",
-         "lng" : 0.112999,
-         "lat" : 52.176566,
-         "guid" : "f97dc87da796491ebcecfc8a1435c879.16"
-      },
-      "571687ee54d549098ea7bd7b7299ce7f.16" : {
-         "lng" : 0.120979,
-         "name" : "Prismatic Tower",
-         "lat" : 52.201605,
-         "guid" : "571687ee54d549098ea7bd7b7299ce7f.16"
-      },
-      "6cb919056f664dcf8cf9dbdca2690eed.16" : {
-         "name" : "Trumpington Meadows Trail Marker 3",
-         "lng" : 0.099792,
-         "guid" : "6cb919056f664dcf8cf9dbdca2690eed.16",
-         "lat" : 52.16841
-      },
-      "229862ed147e4047bf5bfd7fb0e9eef4.16" : {
-         "name" : "The Rotary Club Shelter",
-         "lng" : 0.131647,
-         "lat" : 52.193542,
-         "guid" : "229862ed147e4047bf5bfd7fb0e9eef4.16"
-      },
-      "d2ce4a5615944f16b5192f4438d18b64.16" : {
-         "lng" : 0.104121,
-         "name" : "Trumpington Meadows Trail Marker 1",
-         "guid" : "d2ce4a5615944f16b5192f4438d18b64.16",
-         "lat" : 52.171699
-      },
-      "1053c3647b0b490cbf92516823435e7e.16" : {
-         "lat" : 52.194897,
-         "guid" : "1053c3647b0b490cbf92516823435e7e.16",
-         "lng" : 0.122601,
-         "name" : "Cambridge University Botanic Garden"
-      },
-      "aa11b6b9e2894b54a0d467917fee0bc7.16" : {
-         "lng" : 0.121292,
-         "name" : "Old Addenbrookes Plaque",
-         "lat" : 52.199548,
-         "guid" : "aa11b6b9e2894b54a0d467917fee0bc7.16"
-      },
-      "bb72bb6135954374a10c9ff926480b9e.11" : {
-         "guid" : "bb72bb6135954374a10c9ff926480b9e.11",
-         "lat" : 52.206747,
-         "name" : "Eden Chapel",
-         "lng" : 0.129219
-      },
-      "11bfbb2108d34adeaff6a7f542bed7a6.16" : {
-         "name" : "Maureen and Stephen Bragg",
-         "lng" : 0.12438,
-         "guid" : "11bfbb2108d34adeaff6a7f542bed7a6.16",
-         "lat" : 52.192778
-      },
-      "38d3bf34a61d4aa7962ce1d1e6d5d674.16" : {
-         "lat" : 52.207386,
-         "guid" : "38d3bf34a61d4aa7962ce1d1e6d5d674.16",
-         "lng" : 0.122755,
-         "name" : "Kings Street Post Office"
-      },
-      "46cdc009945644a59b913d916e5fcf86.16" : {
-         "lat" : 52.170401,
-         "guid" : "46cdc009945644a59b913d916e5fcf86.16",
-         "name" : "Trumpington Meadows Trail Marker Two",
-         "lng" : 0.102577
-      },
-      "942b8eb0f4aa4507a47f7bfba8068c4a.16" : {
-         "lng" : 0.111429,
-         "name" : "Trumpington Playground",
-         "guid" : "942b8eb0f4aa4507a47f7bfba8068c4a.16",
-         "lat" : 52.165954
-      },
-      "af9626fb42904042ae4175de2756b8d0.16" : {
-         "lat" : 52.19274,
-         "guid" : "af9626fb42904042ae4175de2756b8d0.16",
-         "lng" : 0.133066,
-         "name" : "Clock Tower 2"
-      },
-      "72e54cd3a7f546648dbb87a73812712f.16" : {
-         "lat" : 52.171135,
-         "guid" : "72e54cd3a7f546648dbb87a73812712f.16",
-         "lng" : 0.112937,
-         "name" : "Trumpington Churchyard Extension"
-      },
-      "be82d0303e72498680551add1e6e8f00.16" : {
-         "lat" : 52.106916,
-         "guid" : "be82d0303e72498680551add1e6e8f00.16",
-         "name" : "Welcome to Shepreth L-Moor",
-         "lng" : 0.026608
-      },
-      "4e5f99f04b6e454da9447843e598b3cb.16" : {
-         "lng" : 0.108703,
-         "name" : "Consort Avenue Playground",
-         "lat" : 52.170997,
-         "guid" : "4e5f99f04b6e454da9447843e598b3cb.16"
-      },
-      "cd566f8e31f84869b41fcd866bc940cf.16" : {
-         "name" : "Sir William Hardy Building",
-         "lng" : 0.123173,
-         "lat" : 52.201613,
-         "guid" : "cd566f8e31f84869b41fcd866bc940cf.16"
-      },
-      "9fafcc818c61429e923fca74db3ea182.16" : {
-         "lat" : 52.193467,
-         "guid" : "9fafcc818c61429e923fca74db3ea182.16",
-         "lng" : 0.127781,
-         "name" : "Grafted Beech"
-      },
-      "7b089c55954648d3aa49f8b7f6f24093.16" : {
-         "name" : "Tram Depot",
-         "lng" : 0.13266,
-         "lat" : 52.204549,
-         "guid" : "7b089c55954648d3aa49f8b7f6f24093.16"
-      },
-      "a1c294b8d14c403694cc52775a008312.16" : {
-         "guid" : "a1c294b8d14c403694cc52775a008312.16",
-         "lat" : 52.194412,
-         "lng" : 0.130221,
-         "name" : "Lilian M. Mudge Bench"
-      },
-      "2b7467b868cc48aaa2560ac23a593ff0.16" : {
-         "name" : "Westcott House",
-         "lng" : 0.122625,
-         "guid" : "2b7467b868cc48aaa2560ac23a593ff0.16",
-         "lat" : 52.208451
-      },
-      "0812b81829a246a7979548fe7c93c786.16" : {
-         "lng" : 0.022518,
-         "name" : "Welcome To Shepreth L-Moor",
-         "guid" : "0812b81829a246a7979548fe7c93c786.16",
-         "lat" : 52.109286
-      },
-      "ab957fc36bae43dfa7a89bfdc226f085.16" : {
-         "lng" : 0.130418,
-         "name" : "Parkside Swimming Pool",
-         "guid" : "ab957fc36bae43dfa7a89bfdc226f085.16",
-         "lat" : 52.201364
-      },
-      "96949c071f454b688b1aac33ea5460e4.16" : {
-         "name" : "Earl Of Derby",
-         "lng" : 0.134118,
-         "guid" : "96949c071f454b688b1aac33ea5460e4.16",
-         "lat" : 52.19206
-      },
-      "0c70d9d11e524438b4d761425c3bd0ce.16" : {
-         "guid" : "0c70d9d11e524438b4d761425c3bd0ce.16",
-         "lat" : 52.205024,
-         "name" : "CB2 Bistro",
-         "lng" : 0.134318
-      },
-      "2405284c77094c8db49f0c28cc044855.16" : {
-         "lng" : 0.034546,
-         "name" : "Shepreth Wildlife Park ",
-         "lat" : 52.114293,
-         "guid" : "2405284c77094c8db49f0c28cc044855.16"
-      },
-      "3e8baf2b69be42d2a16c81f06a19600c.16" : {
-         "lat" : 52.201077,
-         "guid" : "3e8baf2b69be42d2a16c81f06a19600c.16",
-         "name" : "Parker's Piece Map Sign",
-         "lng" : 0.129819
-      },
-      "856d021767c546478facf297c07b3115.16" : {
-         "lng" : 0.1211,
-         "name" : "Baron Anatole von Hugel Plaque ",
-         "lat" : 52.202658,
-         "guid" : "856d021767c546478facf297c07b3115.16"
-      },
-      "f5d9d5c2fa18494a84b9f7e3fb38bf4f.16" : {
-         "lng" : 0.034413,
-         "name" : "Shepreth Basketball Court",
-         "guid" : "f5d9d5c2fa18494a84b9f7e3fb38bf4f.16",
-         "lat" : 52.113949
-      },
-      "db9dce3e4200403399aaa12556b36c7f.16" : {
-         "lat" : 52.194283,
-         "guid" : "db9dce3e4200403399aaa12556b36c7f.16",
-         "name" : "Cacti from the Arid Lands",
-         "lng" : 0.126753
-      },
-      "04f3578322b64801b97b7a13fdce6348.16" : {
-         "lat" : 52.195429,
-         "guid" : "04f3578322b64801b97b7a13fdce6348.16",
-         "lng" : 0.135046,
-         "name" : "1911 Sculpture"
-      },
-      "b8e329fe416847aa8141ecfaaf9830d3.16" : {
-         "lat" : 52.170555,
-         "guid" : "b8e329fe416847aa8141ecfaaf9830d3.16",
-         "name" : "Trumpington Allotments",
-         "lng" : 0.118113
-      },
-      "21dcb199c19148a3b80d77bc3cb7c033.16" : {
-         "lng" : 0.140013,
-         "name" : "Snake Rubbing",
-         "guid" : "21dcb199c19148a3b80d77bc3cb7c033.16",
-         "lat" : 52.173629
-      },
-      "5b1ed5053f654aeab04fb643ff328b87.16" : {
-         "lat" : 52.11101,
-         "guid" : "5b1ed5053f654aeab04fb643ff328b87.16",
-         "lng" : 0.032549,
-         "name" : "The Plough"
-      },
-      "e4650a9a4e3843a8a2aeb40a88e20005.11" : {
-         "guid" : "e4650a9a4e3843a8a2aeb40a88e20005.11",
-         "lat" : 52.205257,
-         "lng" : 0.120763,
-         "name" : "A Time And Place For Marksmanship"
-      },
-      "1dbb11184ae2498ab3c26e3132f30c32.16" : {
-         "lng" : 0.12416,
-         "name" : "A Bench in Botanic Garden",
-         "guid" : "1dbb11184ae2498ab3c26e3132f30c32.16",
-         "lat" : 52.192451
-      },
-      "f1994e0881094d0383efe72c36489cf6.16" : {
-         "name" : "Corpus Christi Playroom",
-         "lng" : 0.117931,
-         "lat" : 52.204524,
-         "guid" : "f1994e0881094d0383efe72c36489cf6.16"
-      },
-      "7da039097e6542efb5b5e4392e712c61.11" : {
-         "guid" : "7da039097e6542efb5b5e4392e712c61.11",
-         "lat" : 52.200376,
-         "name" : "Kenny Gate, Downing College",
-         "lng" : 0.122086
-      },
-      "e927ba11b3ce4cf1927253cbe1bdbf9c.16" : {
-         "guid" : "e927ba11b3ce4cf1927253cbe1bdbf9c.16",
-         "lat" : 52.207513,
-         "lng" : 0.126288,
-         "name" : "Six Almshouses"
-      },
-      "affd84e1a1cc4c3abd27db3beac9bc98.16" : {
-         "lng" : 0.121689,
-         "name" : "Old City Wall Gate",
-         "guid" : "affd84e1a1cc4c3abd27db3beac9bc98.16",
-         "lat" : 52.206204
-      },
-      "a3ad30407f804291a200f2a3ce40ea11.16" : {
-         "name" : "Scotsdale's Squirting Elephant",
-         "lng" : 0.127465,
-         "guid" : "a3ad30407f804291a200f2a3ce40ea11.16",
-         "lat" : 52.160764
-      },
-      "b784207d76e84c89be4809ab6b114b22.16" : {
-         "lng" : 0.120604,
-         "name" : "Charlee Darwn Lived Here",
-         "guid" : "b784207d76e84c89be4809ab6b114b22.16",
-         "lat" : 52.200451
-      },
-      "32d94779b73745ff9f39bab37aba011a.16" : {
-         "lng" : 0.125202,
-         "name" : "The Trevor Harris Bench",
-         "guid" : "32d94779b73745ff9f39bab37aba011a.16",
-         "lat" : 52.192837
-      },
-      "b27a60efbb064bf3867ad08c8265f3dd.16" : {
-         "lat" : 52.202758,
-         "guid" : "b27a60efbb064bf3867ad08c8265f3dd.16",
-         "lng" : 0.132419,
-         "name" : "Playground"
-      },
-      "ce5068cdce9947c69ee805883e1f9f31.16" : {
-         "lng" : 0.135393,
-         "name" : "Ravensworth Playground ",
-         "guid" : "ce5068cdce9947c69ee805883e1f9f31.16",
-         "lat" : 52.196162
-      },
-      "09e5fec5b0104b8e90c1c91d61988ecc.16" : {
-         "guid" : "09e5fec5b0104b8e90c1c91d61988ecc.16",
-         "lat" : 52.194669,
-         "lng" : 0.124577,
-         "name" : "Wizard's Throne"
-      },
-      "3e254ca733734f7a9fd2b6658e98f890.16" : {
-         "name" : "The Prince Regent",
-         "lng" : 0.126854,
-         "guid" : "3e254ca733734f7a9fd2b6658e98f890.16",
-         "lat" : 52.199927
-      },
-      "a18174edfd7647329a8f26cca93e1f34.16" : {
-         "name" : "Trumpington Meadows Bird Carving ",
-         "lng" : 0.102476,
-         "guid" : "a18174edfd7647329a8f26cca93e1f34.16",
-         "lat" : 52.1718
-      },
-      "5791df61b4144dc3a772b59dfbcd3815.16" : {
-         "guid" : "5791df61b4144dc3a772b59dfbcd3815.16",
-         "lat" : 52.174715,
-         "lng" : 0.112816,
-         "name" : "Trumpington Village Hall"
-      },
-      "ad7c3b275af44f16b260db688bf6e233.16" : {
-         "name" : "Giant Gorilla Statue",
-         "lng" : 0.035725,
-         "guid" : "ad7c3b275af44f16b260db688bf6e233.16",
-         "lat" : 52.113993
-      },
-      "dd0644bf83fd460e8f82de2d33cdc782.11" : {
-         "lat" : 52.192147,
-         "guid" : "dd0644bf83fd460e8f82de2d33cdc782.11",
-         "lng" : 0.133596,
-         "name" : "Chauvinist"
-      },
-      "dd8586e25a6c44febe8a5f9adf1824d6.16" : {
-         "lat" : 52.202394,
-         "guid" : "dd8586e25a6c44febe8a5f9adf1824d6.16",
-         "name" : "Department of Plant Sciences",
-         "lng" : 0.121516
-      },
-      "88dc014ee58946ff984eccb541410cb7.16" : {
-         "name" : "Cambridge Working Men's Club",
-         "lng" : 0.135941,
-         "guid" : "88dc014ee58946ff984eccb541410cb7.16",
-         "lat" : 52.206861
-      },
-      "4fa0221caf88420e8bd0dac958b7a93a.16" : {
-         "name" : "Trumpington Post Office",
-         "lng" : 0.113228,
-         "lat" : 52.173241,
-         "guid" : "4fa0221caf88420e8bd0dac958b7a93a.16"
-      },
-      "d1be0ce75ba947cc9bb3a6c83348c247.16" : {
-         "name" : "Navadhanya Indian Restaurant",
-         "lng" : 0.136046,
-         "lat" : 52.208488,
-         "guid" : "d1be0ce75ba947cc9bb3a6c83348c247.16"
-      },
-      "bc9d282691df4900be77dfefdb108c20.16" : {
-         "lng" : 0.101143,
-         "name" : "Trumpington Meadows Trail Marker 4",
-         "guid" : "bc9d282691df4900be77dfefdb108c20.16",
-         "lat" : 52.171157
-      },
-      "67984c16b11a424684b13b1287333e44.16" : {
-         "lat" : 52.167881,
-         "guid" : "67984c16b11a424684b13b1287333e44.16",
-         "name" : "A Load of Balls Sculpture",
-         "lng" : 0.107815
-      },
-      "fc87be84da064ed19d8924b1cbe0c0dc.11" : {
-         "name" : "Christ's Pieces Gazebo",
-         "lng" : 0.124731,
-         "guid" : "fc87be84da064ed19d8924b1cbe0c0dc.11",
-         "lat" : 52.206241
-      },
-      "7555201c737941899ea2db0a9c6b54b7.16" : {
-         "guid" : "7555201c737941899ea2db0a9c6b54b7.16",
-         "lat" : 52.206416,
-         "name" : "三一",
-         "lng" : 0.116274
-      },
-      "759f628643944c2998eb3d295bfd3963.16" : {
-         "lng" : 0.035234,
-         "name" : "Finding Neverland Crocodile",
-         "lat" : 52.114891,
-         "guid" : "759f628643944c2998eb3d295bfd3963.16"
-      },
-      "ba140c850aaa4fbca173ebd3282f5df4.16" : {
-         "guid" : "ba140c850aaa4fbca173ebd3282f5df4.16",
-         "lat" : 52.206453,
-         "name" : "Two Statues",
-         "lng" : 0.118678
-      },
-      "8adf1b58091840f58fe717b238aba0bf.16" : {
-         "guid" : "8adf1b58091840f58fe717b238aba0bf.16",
-         "lat" : 52.202878,
-         "name" : "The Girder Gates ",
-         "lng" : 0.131296
-      },
-      "ce9df28d20a64cb2bc5da2ff04c2db08.16" : {
-         "lat" : 52.202647,
-         "guid" : "ce9df28d20a64cb2bc5da2ff04c2db08.16",
-         "lng" : 0.126008,
-         "name" : "Hobbs Pavilion"
-      },
-      "734ae4c4d9fb491ebbff7d0b637c7802.16" : {
-         "lat" : 52.202032,
-         "guid" : "734ae4c4d9fb491ebbff7d0b637c7802.16",
-         "lng" : 0.124725,
-         "name" : "Novi Pub"
-      },
-      "57bcc941a9aa43a18d143ee25a9f6852.16" : {
-         "lng" : 0.118595,
-         "name" : "Garden Of Unearthly Delights",
-         "guid" : "57bcc941a9aa43a18d143ee25a9f6852.16",
-         "lat" : 52.206196
-      },
-      "c1e0cefb6dee484db063636db81933c3.16" : {
-         "lng" : 0.116365,
-         "name" : "AD 1883",
-         "guid" : "c1e0cefb6dee484db063636db81933c3.16",
-         "lat" : 52.205676
-      },
-      "9f6f673b7ec44221b6f9beee23d0e9f7.16" : {
-         "name" : "Domed Toilets",
-         "lng" : 0.12752,
-         "guid" : "9f6f673b7ec44221b6f9beee23d0e9f7.16",
-         "lat" : 52.208807
-      },
-      "5f207e3d2b214519bc5d952127898903.16" : {
-         "lng" : 0.036148,
-         "name" : "1947 Fordson Tractor",
-         "guid" : "5f207e3d2b214519bc5d952127898903.16",
-         "lat" : 52.114329
-      },
-      "231a642e64314a2aae4d167bcea13a61.16" : {
-         "lng" : 0.127134,
-         "name" : "John Atkinson Memorial Bench",
-         "guid" : "231a642e64314a2aae4d167bcea13a61.16",
-         "lat" : 52.194638
-      },
-      "20597ec9399e47d8a5e5e80ba8ac37bd.12" : {
-         "guid" : "20597ec9399e47d8a5e5e80ba8ac37bd.12",
-         "lat" : 52.205891,
-         "lng" : 0.120124,
-         "name" : "Holy Trinity Church"
-      },
-      "9b796692c60e4d52b8e497b0c818809c.16" : {
-         "guid" : "9b796692c60e4d52b8e497b0c818809c.16",
-         "lat" : 52.168551,
-         "lng" : 0.093155,
-         "name" : "Byron’s Pool Nature Wall"
-      },
-      "d05516b8ad4c4bac87a68bfd97f5480b.11" : {
-         "lng" : 0.121641,
-         "name" : "Department of Engineering",
-         "lat" : 52.198675,
-         "guid" : "d05516b8ad4c4bac87a68bfd97f5480b.11"
-      },
-      "ffc9eb34e7614167aacdf5dbb9b64046.16" : {
-         "name" : "Throne Of The Grass Maze",
-         "lng" : 0.129297,
-         "lat" : 52.192961,
-         "guid" : "ffc9eb34e7614167aacdf5dbb9b64046.16"
-      },
-      "0ab6e01e996f4e9693e4ac47b923fa5c.16" : {
-         "guid" : "0ab6e01e996f4e9693e4ac47b923fa5c.16",
-         "lat" : 52.192501,
-         "name" : "Edna And Ryland Smith",
-         "lng" : 0.127499
-      },
-      "51162815a6ef4b21893b25b52a86cd3f.16" : {
-         "lng" : 0.129827,
-         "name" : "Miniature Slovenian Hay-rack",
-         "lat" : 52.193112,
-         "guid" : "51162815a6ef4b21893b25b52a86cd3f.16"
-      },
-      "ffea28f325dd4639a4160c824fc490da.16" : {
-         "lng" : 0.113482,
-         "name" : "Honey Hill",
-         "guid" : "ffea28f325dd4639a4160c824fc490da.16",
-         "lat" : 52.210578
-      },
-      "eb5f00291c7845a69db6d5dcf5430f9d.16" : {
-         "guid" : "eb5f00291c7845a69db6d5dcf5430f9d.16",
-         "lat" : 52.199686,
-         "lng" : 0.133726,
-         "name" : "ARU Drama Studio"
-      }
-   }
+    "gyms": {
+        "05353944ffcc4bf5a912d5cff779124c.16": {
+            "guid": "05353944ffcc4bf5a912d5cff779124c.16",
+            "lat": 52.21151,
+            "lng": 0.113788,
+            "name": "Castle Street Methodist Church "
+        },
+        "05fe593a26c543d2a0325e42cabd6fc1.12": {
+            "guid": "05fe593a26c543d2a0325e42cabd6fc1.12",
+            "lat": 52.203739,
+            "lng": 0.117669,
+            "name": "The Corpus Clock"
+        },
+        "0d878086c64f4966829da5a7ee4c3b6d.11": {
+            "guid": "0d878086c64f4966829da5a7ee4c3b6d.11",
+            "lat": 52.17387,
+            "lng": 0.10867,
+            "name": "Saint Mary and Saint Michaels"
+        },
+        "0ecabc20667c461bba4d0680344a1721.16": {
+            "guid": "0ecabc20667c461bba4d0680344a1721.16",
+            "lat": 52.200536,
+            "lng": 0.129297,
+            "name": "The Locust"
+        },
+        "0ed2eb1ca6cc4a99a04b87ef89055253.16": {
+            "guid": "0ed2eb1ca6cc4a99a04b87ef89055253.16",
+            "lat": 52.107634,
+            "lng": 0.018685,
+            "name": "Shepreth L-Moor"
+        },
+        "11dbf4acb53141029cc16d8f57093363.16": {
+            "guid": "11dbf4acb53141029cc16d8f57093363.16",
+            "lat": 52.114703,
+            "lng": 0.03684,
+            "name": "Elephant Sculpture"
+        },
+        "1a00dee85cb54765b2019f3a13796157.16": {
+            "guid": "1a00dee85cb54765b2019f3a13796157.16",
+            "lat": 52.205853,
+            "lng": 0.120715,
+            "name": "Holy Trinity War Memorial"
+        },
+        "1d987af3a3bc48daa5fe909d79e02a0e.16": {
+            "guid": "1d987af3a3bc48daa5fe909d79e02a0e.16",
+            "lat": 52.200036,
+            "lng": 0.138502,
+            "name": "Dales Brewery"
+        },
+        "1ea9411d21b54492b83e96c9e3d2c632.16": {
+            "guid": "1ea9411d21b54492b83e96c9e3d2c632.16",
+            "lat": 52.193242,
+            "lng": 0.124594,
+            "name": "Systematic Beds of Herbaceous Plants"
+        },
+        "2828feeb04f842bcaefe31d8cf2e12fd.11": {
+            "guid": "2828feeb04f842bcaefe31d8cf2e12fd.11",
+            "lat": 52.202182,
+            "lng": 0.131224,
+            "name": "Skate Park"
+        },
+        "34edf6db0c754f128512fced2c9961eb.16": {
+            "guid": "34edf6db0c754f128512fced2c9961eb.16",
+            "lat": 52.197974,
+            "lng": 0.123561,
+            "name": "Lensfield Hotel"
+        },
+        "38993cd1d59c4ff3919ca7fcc6b18802.16": {
+            "guid": "38993cd1d59c4ff3919ca7fcc6b18802.16",
+            "lat": 52.19367,
+            "lng": 0.126896,
+            "name": "Fountain at Cambridge University Botanic Garden"
+        },
+        "3a662e381efc40ef87aa5915c1bb5835.16": {
+            "guid": "3a662e381efc40ef87aa5915c1bb5835.16",
+            "lat": 52.198577,
+            "lng": 0.125462,
+            "name": "Downing College Back Gate"
+        },
+        "3fce11cd8cf5411c972b20b0902d1063.16": {
+            "guid": "3fce11cd8cf5411c972b20b0902d1063.16",
+            "lat": 52.169312,
+            "lng": 0.119966,
+            "name": "Baaaa"
+        },
+        "41c615485d8e4565823f61cea73de6ba.16": {
+            "guid": "41c615485d8e4565823f61cea73de6ba.16",
+            "lat": 52.198347,
+            "lng": 0.125964,
+            "name": "Polar Harpoon Gun"
+        },
+        "44daf597040d470a81f878481558a2fb.16": {
+            "guid": "44daf597040d470a81f878481558a2fb.16",
+            "lat": 52.172806,
+            "lng": 0.115321,
+            "name": "Trumpington Pavillion"
+        },
+        "50eb728bb0474bbf8e5be620ae0ac388.11": {
+            "guid": "50eb728bb0474bbf8e5be620ae0ac388.11",
+            "lat": 52.206048,
+            "lng": 0.143709,
+            "name": "Beehive Honeycomb"
+        },
+        "5b2d8eb598ba4ab0ab3732326ddb11d9.16": {
+            "guid": "5b2d8eb598ba4ab0ab3732326ddb11d9.16",
+            "lat": 52.194842,
+            "lng": 0.131599,
+            "name": "Kett House Tree"
+        },
+        "5da1331c45884b8883f4f306be108bc0.16": {
+            "guid": "5da1331c45884b8883f4f306be108bc0.16",
+            "lat": 52.207314,
+            "lng": 0.124419,
+            "name": "Champion of the Thames "
+        },
+        "64401b82bf05468282a5f6ddf117112c.16": {
+            "guid": "64401b82bf05468282a5f6ddf117112c.16",
+            "lat": 52.203147,
+            "lng": 0.138675,
+            "name": "Black Bird"
+        },
+        "6e469e8ab42a4a3fa2d95c6eb1b835b5.11": {
+            "guid": "6e469e8ab42a4a3fa2d95c6eb1b835b5.11",
+            "lat": 52.202171,
+            "lng": 0.128176,
+            "name": "Reality Checkpoint"
+        },
+        "71d39025249849959e2bbe70986ce9a7.16": {
+            "guid": "71d39025249849959e2bbe70986ce9a7.16",
+            "lat": 52.16786,
+            "lng": 0.107272,
+            "name": "Oak Information Sculpture"
+        },
+        "75c58fdc7602466291a168a6bfabe9f7.16": {
+            "guid": "75c58fdc7602466291a168a6bfabe9f7.16",
+            "lat": 52.111612,
+            "lng": 0.028463,
+            "name": "Collins Close Playground"
+        },
+        "8082b941e0914fdbb1cea3505ea01296.11": {
+            "guid": "8082b941e0914fdbb1cea3505ea01296.11",
+            "lat": 52.175436,
+            "lng": 0.11257,
+            "name": "Trumpington War Memorial"
+        },
+        "8247839b7101462d8f8cd777da0b50c6.16": {
+            "guid": "8247839b7101462d8f8cd777da0b50c6.16",
+            "lat": 52.207477,
+            "lng": 0.118282,
+            "name": "All Saints Cross"
+        },
+        "841817ff62ff4e6b9d7c6d78c336ed50.16": {
+            "guid": "841817ff62ff4e6b9d7c6d78c336ed50.16",
+            "lat": 52.173011,
+            "lng": 0.137609,
+            "name": "Silver and Gold Metallic Twists Fa\u00e7ade"
+        },
+        "84b8e6093c5143eeb583a8f74ee92533.11": {
+            "guid": "84b8e6093c5143eeb583a8f74ee92533.11",
+            "lat": 52.205296,
+            "lng": 0.121927,
+            "name": "Christ's College Gate"
+        },
+        "8517a9d3a4d44ccf9477674fac5d2865.16": {
+            "guid": "8517a9d3a4d44ccf9477674fac5d2865.16",
+            "lat": 52.207373,
+            "lng": 0.129274,
+            "name": "The Hopbine"
+        },
+        "8a6321c7a67f481cb6f37ad98a8e0cfd.16": {
+            "guid": "8a6321c7a67f481cb6f37ad98a8e0cfd.16",
+            "lat": 52.112692,
+            "lng": 0.03272,
+            "name": "Shepreth Village Hall"
+        },
+        "912c96f2e38641ef9f8c700b00c786b8.16": {
+            "guid": "912c96f2e38641ef9f8c700b00c786b8.16",
+            "lat": 52.11416,
+            "lng": 0.03126,
+            "name": "Shepreth Train Station"
+        },
+        "93d49f46d9d24bc9b1f1e648a6144721.16": {
+            "guid": "93d49f46d9d24bc9b1f1e648a6144721.16",
+            "lat": 52.16617,
+            "lng": 0.123393,
+            "name": "Kingfisher Gardens Play Area "
+        },
+        "968ef9ff4b484a1c9a00a3d00627444c.16": {
+            "guid": "968ef9ff4b484a1c9a00a3d00627444c.16",
+            "lat": 52.108106,
+            "lng": 0.032209,
+            "name": "All Saints Church, Shepreth"
+        },
+        "98dd11e67afe40608e60a75217c61b40.16": {
+            "guid": "98dd11e67afe40608e60a75217c61b40.16",
+            "lat": 52.172995,
+            "lng": 0.102155,
+            "name": "Byron's Pool"
+        },
+        "9abaf5d688704f8c820cdc26791b791f.16": {
+            "guid": "9abaf5d688704f8c820cdc26791b791f.16",
+            "lat": 52.1735,
+            "lng": 0.139554,
+            "name": "Sculpture at Rosie Hospital "
+        },
+        "9c9551d636aa43daaa789df448d45dcc.11": {
+            "guid": "9c9551d636aa43daaa789df448d45dcc.11",
+            "lat": 52.208433,
+            "lng": 0.118868,
+            "name": "Round Church"
+        },
+        "a3cadddb6e7b4951a317da9bcd8c683e.16": {
+            "guid": "a3cadddb6e7b4951a317da9bcd8c683e.16",
+            "lat": 52.174347,
+            "lng": 0.110668,
+            "name": "Lord Byron Inn"
+        },
+        "a6e45e5be089496e8464a9558e3ec0dd.16": {
+            "guid": "a6e45e5be089496e8464a9558e3ec0dd.16",
+            "lat": 52.202475,
+            "lng": 0.136162,
+            "name": "Rattee Memorial"
+        },
+        "a7b347daf05244ca815a3285a6f3e8f4.16": {
+            "guid": "a7b347daf05244ca815a3285a6f3e8f4.16",
+            "lat": 52.204797,
+            "lng": 0.136495,
+            "name": "Blue Moon Pub"
+        },
+        "af0f0837dfec4e19b26ce60b6b7cc053.16": {
+            "guid": "af0f0837dfec4e19b26ce60b6b7cc053.16",
+            "lat": 52.194297,
+            "lng": 0.12637,
+            "name": "Cambridge Gardens Greenhouse"
+        },
+        "b2822612498543b0a031725421ddf0e9.16": {
+            "guid": "b2822612498543b0a031725421ddf0e9.16",
+            "lat": 52.200045,
+            "lng": 0.128138,
+            "name": "Fabulous Toilets"
+        },
+        "b359800aae8a4fa1a05158a9c730056d.16": {
+            "guid": "b359800aae8a4fa1a05158a9c730056d.16",
+            "lat": 52.20853,
+            "lng": 0.120757,
+            "name": "David Gregory Marshall MBE"
+        },
+        "ba71460fc3024f57bb9558b333fc2e87.16": {
+            "guid": "ba71460fc3024f57bb9558b333fc2e87.16",
+            "lat": 52.203672,
+            "lng": 0.132548,
+            "name": "Zion Baptist Church"
+        },
+        "bd16233feadb4f448b6581110cff999d.16": {
+            "guid": "bd16233feadb4f448b6581110cff999d.16",
+            "lat": 52.194472,
+            "lng": 0.131756,
+            "name": "Flying Pig"
+        },
+        "bd261ad719ff4824a87e20f5c3562680.16": {
+            "guid": "bd261ad719ff4824a87e20f5c3562680.16",
+            "lat": 52.193682,
+            "lng": 0.123985,
+            "name": "The Dawn Redwood"
+        },
+        "c2c86667c6a24b489759341c60a2aebc.16": {
+            "guid": "c2c86667c6a24b489759341c60a2aebc.16",
+            "lat": 52.202438,
+            "lng": 0.130537,
+            "name": "The Laws Of The University Football Club"
+        },
+        "cac0733799a64a6cb90f6f4e88174d72.16": {
+            "guid": "cac0733799a64a6cb90f6f4e88174d72.16",
+            "lat": 52.21096,
+            "lng": 0.13871,
+            "name": "Spiky Post Box"
+        },
+        "caf4fd6d344c49dd906977e121f40c17.16": {
+            "guid": "caf4fd6d344c49dd906977e121f40c17.16",
+            "lat": 52.204924,
+            "lng": 0.112552,
+            "name": "Confucius"
+        },
+        "ccf2c47d739847339924ab1f40cab81e.11": {
+            "guid": "ccf2c47d739847339924ab1f40cab81e.11",
+            "lat": 52.199022,
+            "lng": 0.12739,
+            "name": "Our Lady and English Martyrs Church"
+        },
+        "da2b4ad80af840399a294842c4d3010d.16": {
+            "guid": "da2b4ad80af840399a294842c4d3010d.16",
+            "lat": 52.200872,
+            "lng": 0.118465,
+            "name": "Peterhouse"
+        },
+        "dc178fc91eef4ad2a27e82754e983eed.16": {
+            "guid": "dc178fc91eef4ad2a27e82754e983eed.16",
+            "lat": 52.169817,
+            "lng": 0.11069,
+            "name": "Holey Rock of Trumpington Meadows "
+        },
+        "e181ae7bf6dc4cdca4ce3f66d13e55df.11": {
+            "guid": "e181ae7bf6dc4cdca4ce3f66d13e55df.11",
+            "lat": 52.205067,
+            "lng": 0.119443,
+            "name": "Snowy Farr Memorial Sculpture"
+        },
+        "efb7726ef33b44a58fa2a31f38b4fd47.11": {
+            "guid": "efb7726ef33b44a58fa2a31f38b4fd47.11",
+            "lat": 52.205356,
+            "lng": 0.119056,
+            "name": "Market Square Fountain"
+        },
+        "f99afb282f2340ccbbb7b6c203197db4.16": {
+            "guid": "f99afb282f2340ccbbb7b6c203197db4.16",
+            "lat": 52.208551,
+            "lng": 0.120085,
+            "name": "ADC Theatre"
+        },
+        "fb9cd2514d5b42dea2c338dc3c00117c.16": {
+            "guid": "fb9cd2514d5b42dea2c338dc3c00117c.16",
+            "lat": 52.21127,
+            "lng": 0.13684,
+            "name": "Giant Anchor"
+        }
+    },
+    "ignoredCellsExtraGyms": [],
+    "notpogo": {
+        "c14b89077e6340989e6f58b632075631.16": {
+            "guid": "c14b89077e6340989e6f58b632075631.16",
+            "lat": 52.172988,
+            "lng": 0.113382,
+            "name": "Trumpington Community Noticeboard"
+        }
+    },
+    "pokestops": {
+        "03adecd9f8424c02b5eac3d93e262c36.16": {
+            "guid": "03adecd9f8424c02b5eac3d93e262c36.16",
+            "lat": 52.112196,
+            "lng": 0.032374,
+            "name": "Shepreth War Memorial"
+        },
+        "04f3578322b64801b97b7a13fdce6348.16": {
+            "guid": "04f3578322b64801b97b7a13fdce6348.16",
+            "lat": 52.195429,
+            "lng": 0.135046,
+            "name": "1911 Sculpture"
+        },
+        "057d3b1b774e461eb5818b91b8b44d3f.16": {
+            "guid": "057d3b1b774e461eb5818b91b8b44d3f.16",
+            "lat": 52.203109,
+            "lng": 0.122145,
+            "name": "Woolly Mammoth"
+        },
+        "0812b81829a246a7979548fe7c93c786.16": {
+            "guid": "0812b81829a246a7979548fe7c93c786.16",
+            "lat": 52.109286,
+            "lng": 0.022518,
+            "name": "Welcome To Shepreth L-Moor"
+        },
+        "08fd2a739b49406b9c9430e733362503.16": {
+            "guid": "08fd2a739b49406b9c9430e733362503.16",
+            "lat": 52.207257,
+            "lng": 0.125214,
+            "name": "King Street Run"
+        },
+        "09e5fec5b0104b8e90c1c91d61988ecc.16": {
+            "guid": "09e5fec5b0104b8e90c1c91d61988ecc.16",
+            "lat": 52.194669,
+            "lng": 0.124577,
+            "name": "Wizard's Throne"
+        },
+        "0aa4123acf4f4dedaa7d902fb11b986f.16": {
+            "guid": "0aa4123acf4f4dedaa7d902fb11b986f.16",
+            "lat": 52.196967,
+            "lng": 0.129652,
+            "name": "Chosen Bun"
+        },
+        "0ab6e01e996f4e9693e4ac47b923fa5c.16": {
+            "guid": "0ab6e01e996f4e9693e4ac47b923fa5c.16",
+            "lat": 52.192501,
+            "lng": 0.127499,
+            "name": "Edna And Ryland Smith"
+        },
+        "0af083c052354424b31b9c1a6712cf97.16": {
+            "guid": "0af083c052354424b31b9c1a6712cf97.16",
+            "lat": 52.20075,
+            "lng": 0.126629,
+            "name": "The Grain and Hop Store"
+        },
+        "0b1ec53e5d3c49b4b2cb2e8082016fd3.16": {
+            "guid": "0b1ec53e5d3c49b4b2cb2e8082016fd3.16",
+            "lat": 52.212879,
+            "lng": 0.119459,
+            "name": "Arundel House Hotel"
+        },
+        "0c5b2d9a664a41b18f4fcf6a2533afea.16": {
+            "guid": "0c5b2d9a664a41b18f4fcf6a2533afea.16",
+            "lat": 52.204403,
+            "lng": 0.119576,
+            "name": "Corn Exchange"
+        },
+        "0c70d9d11e524438b4d761425c3bd0ce.16": {
+            "guid": "0c70d9d11e524438b4d761425c3bd0ce.16",
+            "lat": 52.205024,
+            "lng": 0.134318,
+            "name": "CB2 Bistro"
+        },
+        "1053c3647b0b490cbf92516823435e7e.16": {
+            "guid": "1053c3647b0b490cbf92516823435e7e.16",
+            "lat": 52.194897,
+            "lng": 0.122601,
+            "name": "Cambridge University Botanic Garden"
+        },
+        "1110ed54f27a4c5281b7e14c4516fef3.16": {
+            "guid": "1110ed54f27a4c5281b7e14c4516fef3.16",
+            "lat": 52.201898,
+            "lng": 0.117858,
+            "name": "Mill Lane"
+        },
+        "114bf95fa56e4a9eb011c00a3e9e9545.11": {
+            "guid": "114bf95fa56e4a9eb011c00a3e9e9545.11",
+            "lat": 52.201646,
+            "lng": 0.113109,
+            "name": "City Map, Queen's Road"
+        },
+        "11bfbb2108d34adeaff6a7f542bed7a6.16": {
+            "guid": "11bfbb2108d34adeaff6a7f542bed7a6.16",
+            "lat": 52.192778,
+            "lng": 0.12438,
+            "name": "Maureen and Stephen Bragg"
+        },
+        "131b601754394e5fa989f5ccea3f9a87.16": {
+            "guid": "131b601754394e5fa989f5ccea3f9a87.16",
+            "lat": 52.197015,
+            "lng": 0.124637,
+            "name": "Preening Bird"
+        },
+        "140c402f99da4246887345b8cd6a0eaa.16": {
+            "guid": "140c402f99da4246887345b8cd6a0eaa.16",
+            "lat": 52.112121,
+            "lng": 0.032064,
+            "name": "Shepreth Village Sign"
+        },
+        "14709c2d2e5942e1a7d5f75a3a605577.16": {
+            "guid": "14709c2d2e5942e1a7d5f75a3a605577.16",
+            "lat": 52.166818,
+            "lng": 0.115657,
+            "name": "Roseum Gardens"
+        },
+        "14c7eb09c6064181b5c01dc169084625.16": {
+            "guid": "14c7eb09c6064181b5c01dc169084625.16",
+            "lat": 52.200173,
+            "lng": 0.137226,
+            "name": "Ditchburn Place Gardens"
+        },
+        "15c2e746b63c4336b506302afb9d8b25.16": {
+            "guid": "15c2e746b63c4336b506302afb9d8b25.16",
+            "lat": 52.210723,
+            "lng": 0.115186,
+            "name": "Cambridge Core"
+        },
+        "1634913ed1594626ab32ba60656df77e.16": {
+            "guid": "1634913ed1594626ab32ba60656df77e.16",
+            "lat": 52.203965,
+            "lng": 0.12821,
+            "name": "25 Park Side"
+        },
+        "17f4d2cdf9e24c9c87ab97b614c612cc.16": {
+            "guid": "17f4d2cdf9e24c9c87ab97b614c612cc.16",
+            "lat": 52.203542,
+            "lng": 0.137769,
+            "name": "Robin"
+        },
+        "1887b73b61994c0e9098b7944f5b3a38.16": {
+            "guid": "1887b73b61994c0e9098b7944f5b3a38.16",
+            "lat": 52.197972,
+            "lng": 0.1229,
+            "name": "The Snug"
+        },
+        "19f595ad49174dfa94f77cf53fe2ef57.16": {
+            "guid": "19f595ad49174dfa94f77cf53fe2ef57.16",
+            "lat": 52.206655,
+            "lng": 0.119154,
+            "name": "Green Street Leaf Tile"
+        },
+        "1b2e08a713f44cb2bb6752c005318df8.16": {
+            "guid": "1b2e08a713f44cb2bb6752c005318df8.16",
+            "lat": 52.202487,
+            "lng": 0.124293,
+            "name": "Old Police Station"
+        },
+        "1c976ef6716c413f9f4c5a80331840aa.16": {
+            "guid": "1c976ef6716c413f9f4c5a80331840aa.16",
+            "lat": 52.194967,
+            "lng": 0.130599,
+            "name": "Melanie S. Primmer"
+        },
+        "1d88ec1ed7094424ac135b28f4d1d4e0.16": {
+            "guid": "1d88ec1ed7094424ac135b28f4d1d4e0.16",
+            "lat": 52.201887,
+            "lng": 0.125337,
+            "name": "Parker's Piece South Entrance"
+        },
+        "1dbb11184ae2498ab3c26e3132f30c32.16": {
+            "guid": "1dbb11184ae2498ab3c26e3132f30c32.16",
+            "lat": 52.192451,
+            "lng": 0.12416,
+            "name": "A Bench in Botanic Garden"
+        },
+        "20597ec9399e47d8a5e5e80ba8ac37bd.12": {
+            "guid": "20597ec9399e47d8a5e5e80ba8ac37bd.12",
+            "lat": 52.205891,
+            "lng": 0.120124,
+            "name": "Holy Trinity Church"
+        },
+        "21dcb199c19148a3b80d77bc3cb7c033.16": {
+            "guid": "21dcb199c19148a3b80d77bc3cb7c033.16",
+            "lat": 52.173629,
+            "lng": 0.140013,
+            "name": "Snake Rubbing"
+        },
+        "229862ed147e4047bf5bfd7fb0e9eef4.16": {
+            "guid": "229862ed147e4047bf5bfd7fb0e9eef4.16",
+            "lat": 52.193542,
+            "lng": 0.131647,
+            "name": "The Rotary Club Shelter"
+        },
+        "231a642e64314a2aae4d167bcea13a61.16": {
+            "guid": "231a642e64314a2aae4d167bcea13a61.16",
+            "lat": 52.194638,
+            "lng": 0.127134,
+            "name": "John Atkinson Memorial Bench"
+        },
+        "2405284c77094c8db49f0c28cc044855.16": {
+            "guid": "2405284c77094c8db49f0c28cc044855.16",
+            "lat": 52.114293,
+            "lng": 0.034546,
+            "name": "Shepreth Wildlife Park "
+        },
+        "25337bac5fa745d6a1987269467706f6.16": {
+            "guid": "25337bac5fa745d6a1987269467706f6.16",
+            "lat": 52.193398,
+            "lng": 0.134866,
+            "name": "Warren Close Garden"
+        },
+        "2547228e946c4a5abb8716a88202e8b7.16": {
+            "guid": "2547228e946c4a5abb8716a88202e8b7.16",
+            "lat": 52.194609,
+            "lng": 0.123295,
+            "name": "Sir Isaac Newton's Apple"
+        },
+        "262e8e5080ff4a1c92fe051891714216.16": {
+            "guid": "262e8e5080ff4a1c92fe051891714216.16",
+            "lat": 52.201815,
+            "lng": 0.120816,
+            "name": "Regional Architecture Award 1998"
+        },
+        "29ae4c65709f421faa45893e955f674a.16": {
+            "guid": "29ae4c65709f421faa45893e955f674a.16",
+            "lat": 52.165155,
+            "lng": 0.106812,
+            "name": "Three Miles to Cambridge"
+        },
+        "2acdf94f55094694b670f9b3c67ac23e.16": {
+            "guid": "2acdf94f55094694b670f9b3c67ac23e.16",
+            "lat": 52.172558,
+            "lng": 0.112447,
+            "name": "The Trumpington Shield"
+        },
+        "2b7467b868cc48aaa2560ac23a593ff0.16": {
+            "guid": "2b7467b868cc48aaa2560ac23a593ff0.16",
+            "lat": 52.208451,
+            "lng": 0.122625,
+            "name": "Westcott House"
+        },
+        "2cbf635377384744a28b66fe6a2ca613.16": {
+            "guid": "2cbf635377384744a28b66fe6a2ca613.16",
+            "lat": 52.192245,
+            "lng": 0.125766,
+            "name": "The Steve Prentis Bench"
+        },
+        "2e33c04a53724cd4b41bbbb9a0677e02.16": {
+            "guid": "2e33c04a53724cd4b41bbbb9a0677e02.16",
+            "lat": 52.204036,
+            "lng": 0.122896,
+            "name": "Apothecary Owl"
+        },
+        "2f74f5da5d254ccfb9e6799982212bea.16": {
+            "guid": "2f74f5da5d254ccfb9e6799982212bea.16",
+            "lat": 52.205243,
+            "lng": 0.124298,
+            "name": "Drummer Street Bus Station"
+        },
+        "32d94779b73745ff9f39bab37aba011a.16": {
+            "guid": "32d94779b73745ff9f39bab37aba011a.16",
+            "lat": 52.192837,
+            "lng": 0.125202,
+            "name": "The Trevor Harris Bench"
+        },
+        "38d3bf34a61d4aa7962ce1d1e6d5d674.16": {
+            "guid": "38d3bf34a61d4aa7962ce1d1e6d5d674.16",
+            "lat": 52.207386,
+            "lng": 0.122755,
+            "name": "Kings Street Post Office"
+        },
+        "3cbdddc355bd46e996dfd1f7856d7547.16": {
+            "guid": "3cbdddc355bd46e996dfd1f7856d7547.16",
+            "lat": 52.2011,
+            "lng": 0.121621,
+            "name": "Department of Pathology"
+        },
+        "3d76b1fea0524b56bbbd9490bf687204.16": {
+            "guid": "3d76b1fea0524b56bbbd9490bf687204.16",
+            "lat": 52.19995,
+            "lng": 0.121638,
+            "name": "Judge Business School"
+        },
+        "3e254ca733734f7a9fd2b6658e98f890.16": {
+            "guid": "3e254ca733734f7a9fd2b6658e98f890.16",
+            "lat": 52.199927,
+            "lng": 0.126854,
+            "name": "The Prince Regent"
+        },
+        "3e4b504d239e44af885a259c5b0ea7d8.11": {
+            "guid": "3e4b504d239e44af885a259c5b0ea7d8.11",
+            "lat": 52.198039,
+            "lng": 0.124886,
+            "name": "University Chemical Laboratories"
+        },
+        "3e8baf2b69be42d2a16c81f06a19600c.16": {
+            "guid": "3e8baf2b69be42d2a16c81f06a19600c.16",
+            "lat": 52.201077,
+            "lng": 0.129819,
+            "name": "Parker's Piece Map Sign"
+        },
+        "40a880d22e084c5aa12bc5f298833c30.16": {
+            "guid": "40a880d22e084c5aa12bc5f298833c30.16",
+            "lat": 52.210146,
+            "lng": 0.117326,
+            "name": "Garde Ta Foy"
+        },
+        "424d3692b47f4d2291319f33f33ff0c2.16": {
+            "guid": "424d3692b47f4d2291319f33f33ff0c2.16",
+            "lat": 52.204335,
+            "lng": 0.11872,
+            "name": "Cambridge Arts Theatre"
+        },
+        "4386477f1bc04b85906a8a3362a801cc.16": {
+            "guid": "4386477f1bc04b85906a8a3362a801cc.16",
+            "lat": 52.194824,
+            "lng": 0.136255,
+            "name": "Anderson Crown'd Mill Wheel"
+        },
+        "46cdc009945644a59b913d916e5fcf86.16": {
+            "guid": "46cdc009945644a59b913d916e5fcf86.16",
+            "lat": 52.170401,
+            "lng": 0.102577,
+            "name": "Trumpington Meadows Trail Marker Two"
+        },
+        "46db3f2289954a9d8338fc1dcb813dad.16": {
+            "guid": "46db3f2289954a9d8338fc1dcb813dad.16",
+            "lat": 52.20117,
+            "lng": 0.120349,
+            "name": "Gate of the Golden Keys"
+        },
+        "47aa1406481b4c6abd18346238210f5d.16": {
+            "guid": "47aa1406481b4c6abd18346238210f5d.16",
+            "lat": 52.194676,
+            "lng": 0.125085,
+            "name": "John Stevens Henslow"
+        },
+        "4809a43c46fa44bab11a1b6fce8ab025.16": {
+            "guid": "4809a43c46fa44bab11a1b6fce8ab025.16",
+            "lat": 52.207704,
+            "lng": 0.11928,
+            "name": "Guardian Lions"
+        },
+        "4a4cc589e24349ea9f4a7a7c8d83e852.16": {
+            "guid": "4a4cc589e24349ea9f4a7a7c8d83e852.16",
+            "lat": 52.204641,
+            "lng": 0.118747,
+            "name": "Church of St. Edward King and Martyr"
+        },
+        "4e5f99f04b6e454da9447843e598b3cb.16": {
+            "guid": "4e5f99f04b6e454da9447843e598b3cb.16",
+            "lat": 52.170997,
+            "lng": 0.108703,
+            "name": "Consort Avenue Playground"
+        },
+        "4fa0221caf88420e8bd0dac958b7a93a.16": {
+            "guid": "4fa0221caf88420e8bd0dac958b7a93a.16",
+            "lat": 52.173241,
+            "lng": 0.113228,
+            "name": "Trumpington Post Office"
+        },
+        "51162815a6ef4b21893b25b52a86cd3f.16": {
+            "guid": "51162815a6ef4b21893b25b52a86cd3f.16",
+            "lat": 52.193112,
+            "lng": 0.129827,
+            "name": "Miniature Slovenian Hay-rack"
+        },
+        "54d8cb0d5f884c51b1426790d6d849a2.16": {
+            "guid": "54d8cb0d5f884c51b1426790d6d849a2.16",
+            "lat": 52.199711,
+            "lng": 0.138539,
+            "name": "The Bath House"
+        },
+        "5520ad849c4045148a10323bfc59fd73.12": {
+            "guid": "5520ad849c4045148a10323bfc59fd73.12",
+            "lat": 52.197938,
+            "lng": 0.122446,
+            "name": "Hobson's Conduit"
+        },
+        "567b3ed8229142a8ad3964f522608bf4.16": {
+            "guid": "567b3ed8229142a8ad3964f522608bf4.16",
+            "lat": 52.194864,
+            "lng": 0.134358,
+            "name": "Basque Refugee Plaque"
+        },
+        "571687ee54d549098ea7bd7b7299ce7f.16": {
+            "guid": "571687ee54d549098ea7bd7b7299ce7f.16",
+            "lat": 52.201605,
+            "lng": 0.120979,
+            "name": "Prismatic Tower"
+        },
+        "573107aff0764091b3374980435be7c3.16": {
+            "guid": "573107aff0764091b3374980435be7c3.16",
+            "lat": 52.203565,
+            "lng": 0.123265,
+            "name": "Mother and Child Sculpture"
+        },
+        "5791df61b4144dc3a772b59dfbcd3815.16": {
+            "guid": "5791df61b4144dc3a772b59dfbcd3815.16",
+            "lat": 52.174715,
+            "lng": 0.112816,
+            "name": "Trumpington Village Hall"
+        },
+        "57bcc941a9aa43a18d143ee25a9f6852.16": {
+            "guid": "57bcc941a9aa43a18d143ee25a9f6852.16",
+            "lat": 52.206196,
+            "lng": 0.118595,
+            "name": "Garden Of Unearthly Delights"
+        },
+        "586f2dbded5f4aed871cbdcb8f7da793.16": {
+            "guid": "586f2dbded5f4aed871cbdcb8f7da793.16",
+            "lat": 52.209703,
+            "lng": 0.118854,
+            "name": "Hawk's Club"
+        },
+        "58df2ff0755b40408b98eed7797ea412.16": {
+            "guid": "58df2ff0755b40408b98eed7797ea412.16",
+            "lat": 52.206559,
+            "lng": 0.130031,
+            "name": "Reston House A.D. 1957"
+        },
+        "5b1ed5053f654aeab04fb643ff328b87.16": {
+            "guid": "5b1ed5053f654aeab04fb643ff328b87.16",
+            "lat": 52.11101,
+            "lng": 0.032549,
+            "name": "The Plough"
+        },
+        "5f207e3d2b214519bc5d952127898903.16": {
+            "guid": "5f207e3d2b214519bc5d952127898903.16",
+            "lat": 52.114329,
+            "lng": 0.036148,
+            "name": "1947 Fordson Tractor"
+        },
+        "5f69e362f07b43529b6a12ac192a9d4c.11": {
+            "guid": "5f69e362f07b43529b6a12ac192a9d4c.11",
+            "lat": 52.206918,
+            "lng": 0.136581,
+            "name": "Cambridge Crown Court"
+        },
+        "62626a895a88442ea922438b823216e4.11": {
+            "guid": "62626a895a88442ea922438b823216e4.11",
+            "lat": 52.205745,
+            "lng": 0.117195,
+            "name": "Stephen Hawking's Room"
+        },
+        "674afb41c5674fe59a7606470a3376f1.16": {
+            "guid": "674afb41c5674fe59a7606470a3376f1.16",
+            "lat": 52.197028,
+            "lng": 0.122075,
+            "name": "King George Fifth's Gateway"
+        },
+        "67984c16b11a424684b13b1287333e44.16": {
+            "guid": "67984c16b11a424684b13b1287333e44.16",
+            "lat": 52.167881,
+            "lng": 0.107815,
+            "name": "A Load of Balls Sculpture"
+        },
+        "6962f1394cf044a3af2d559d26bf622b.16": {
+            "guid": "6962f1394cf044a3af2d559d26bf622b.16",
+            "lat": 52.21021,
+            "lng": 0.118075,
+            "name": "Helix"
+        },
+        "6cb919056f664dcf8cf9dbdca2690eed.16": {
+            "guid": "6cb919056f664dcf8cf9dbdca2690eed.16",
+            "lat": 52.16841,
+            "lng": 0.099792,
+            "name": "Trumpington Meadows Trail Marker 3"
+        },
+        "7155ab127fce4831907c5056560c0990.16": {
+            "guid": "7155ab127fce4831907c5056560c0990.16",
+            "lat": 52.207247,
+            "lng": 0.121578,
+            "name": "Pots and Pans at D Arrys Original"
+        },
+        "72e54cd3a7f546648dbb87a73812712f.16": {
+            "guid": "72e54cd3a7f546648dbb87a73812712f.16",
+            "lat": 52.171135,
+            "lng": 0.112937,
+            "name": "Trumpington Churchyard Extension"
+        },
+        "734ae4c4d9fb491ebbff7d0b637c7802.16": {
+            "guid": "734ae4c4d9fb491ebbff7d0b637c7802.16",
+            "lat": 52.202032,
+            "lng": 0.124725,
+            "name": "Novi Pub"
+        },
+        "7555201c737941899ea2db0a9c6b54b7.16": {
+            "guid": "7555201c737941899ea2db0a9c6b54b7.16",
+            "lat": 52.206416,
+            "lng": 0.116274,
+            "name": "\u4e09\u4e00"
+        },
+        "759f628643944c2998eb3d295bfd3963.16": {
+            "guid": "759f628643944c2998eb3d295bfd3963.16",
+            "lat": 52.114891,
+            "lng": 0.035234,
+            "name": "Finding Neverland Crocodile"
+        },
+        "7b089c55954648d3aa49f8b7f6f24093.16": {
+            "guid": "7b089c55954648d3aa49f8b7f6f24093.16",
+            "lat": 52.204549,
+            "lng": 0.13266,
+            "name": "Tram Depot"
+        },
+        "7da039097e6542efb5b5e4392e712c61.11": {
+            "guid": "7da039097e6542efb5b5e4392e712c61.11",
+            "lat": 52.200376,
+            "lng": 0.122086,
+            "name": "Kenny Gate, Downing College"
+        },
+        "7e31057ecd8f466b8ccfa0f337f0e0b7.16": {
+            "guid": "7e31057ecd8f466b8ccfa0f337f0e0b7.16",
+            "lat": 52.172534,
+            "lng": 0.105356,
+            "name": "Trumpington Meadows Nature Reserve"
+        },
+        "8151963eee544e9bbd0584309e20bc1d.16": {
+            "guid": "8151963eee544e9bbd0584309e20bc1d.16",
+            "lat": 52.198358,
+            "lng": 0.127478,
+            "name": "Saint Bede"
+        },
+        "824ddad74b734dabaf318376ca99e2af.11": {
+            "guid": "824ddad74b734dabaf318376ca99e2af.11",
+            "lat": 52.203218,
+            "lng": 0.120442,
+            "name": "Marine Biology Skeleton"
+        },
+        "827da88a346e4c4799c003742376c7a4.16": {
+            "guid": "827da88a346e4c4799c003742376c7a4.16",
+            "lat": 52.199587,
+            "lng": 0.127232,
+            "name": "Lloyds Horse"
+        },
+        "856d021767c546478facf297c07b3115.16": {
+            "guid": "856d021767c546478facf297c07b3115.16",
+            "lat": 52.202658,
+            "lng": 0.1211,
+            "name": "Baron Anatole von Hugel Plaque "
+        },
+        "875b8dad95af4673a73b1fe894087cd0.12": {
+            "guid": "875b8dad95af4673a73b1fe894087cd0.12",
+            "lat": 52.208694,
+            "lng": 0.11787,
+            "name": "St. John's Side Entrance"
+        },
+        "8812a9368a75460a93a36e1f01f6e745.11": {
+            "guid": "8812a9368a75460a93a36e1f01f6e745.11",
+            "lat": 52.203922,
+            "lng": 0.118064,
+            "name": "The Eagle"
+        },
+        "88dc014ee58946ff984eccb541410cb7.16": {
+            "guid": "88dc014ee58946ff984eccb541410cb7.16",
+            "lat": 52.206861,
+            "lng": 0.135941,
+            "name": "Cambridge Working Men's Club"
+        },
+        "8adf1b58091840f58fe717b238aba0bf.16": {
+            "guid": "8adf1b58091840f58fe717b238aba0bf.16",
+            "lat": 52.202878,
+            "lng": 0.131296,
+            "name": "The Girder Gates "
+        },
+        "8d7c4f7c4ea246c3a7003f5b22d07094.11": {
+            "guid": "8d7c4f7c4ea246c3a7003f5b22d07094.11",
+            "lat": 52.196208,
+            "lng": 0.125912,
+            "name": "Dragon Statues"
+        },
+        "90c4cb4fe5ba4826b9524f5d7c480012.16": {
+            "guid": "90c4cb4fe5ba4826b9524f5d7c480012.16",
+            "lat": 52.192836,
+            "lng": 0.126972,
+            "name": "Sidney and May Miller"
+        },
+        "942b8eb0f4aa4507a47f7bfba8068c4a.16": {
+            "guid": "942b8eb0f4aa4507a47f7bfba8068c4a.16",
+            "lat": 52.165954,
+            "lng": 0.111429,
+            "name": "Trumpington Playground"
+        },
+        "95b79ad3597f423183a8480742a6d573.11": {
+            "guid": "95b79ad3597f423183a8480742a6d573.11",
+            "lat": 52.201882,
+            "lng": 0.131852,
+            "name": "Betty Rea's Swimmers"
+        },
+        "96949c071f454b688b1aac33ea5460e4.16": {
+            "guid": "96949c071f454b688b1aac33ea5460e4.16",
+            "lat": 52.19206,
+            "lng": 0.134118,
+            "name": "Earl Of Derby"
+        },
+        "9a864d32aa5449f5afdcb41565c85251.16": {
+            "guid": "9a864d32aa5449f5afdcb41565c85251.16",
+            "lat": 52.207118,
+            "lng": 0.119988,
+            "name": "Sidney Sussex Lodge"
+        },
+        "9b796692c60e4d52b8e497b0c818809c.16": {
+            "guid": "9b796692c60e4d52b8e497b0c818809c.16",
+            "lat": 52.168551,
+            "lng": 0.093155,
+            "name": "Byron\u2019s Pool Nature Wall"
+        },
+        "9c91b83ab0ad49dfb7eb89ea7afe8b58.16": {
+            "guid": "9c91b83ab0ad49dfb7eb89ea7afe8b58.16",
+            "lat": 52.173496,
+            "lng": 0.122147,
+            "name": "Clay Farm Centre"
+        },
+        "9e1476a7b7aa48e4ad367943693ed88e.16": {
+            "guid": "9e1476a7b7aa48e4ad367943693ed88e.16",
+            "lat": 52.207871,
+            "lng": 0.136961,
+            "name": "Compass House"
+        },
+        "9f6f673b7ec44221b6f9beee23d0e9f7.16": {
+            "guid": "9f6f673b7ec44221b6f9beee23d0e9f7.16",
+            "lat": 52.208807,
+            "lng": 0.12752,
+            "name": "Domed Toilets"
+        },
+        "9fafcc818c61429e923fca74db3ea182.16": {
+            "guid": "9fafcc818c61429e923fca74db3ea182.16",
+            "lat": 52.193467,
+            "lng": 0.127781,
+            "name": "Grafted Beech"
+        },
+        "a12100163f6d4934b271349d9f972581.12": {
+            "guid": "a12100163f6d4934b271349d9f972581.12",
+            "lat": 52.206433,
+            "lng": 0.116665,
+            "name": "Trinity College Back Gate"
+        },
+        "a18174edfd7647329a8f26cca93e1f34.16": {
+            "guid": "a18174edfd7647329a8f26cca93e1f34.16",
+            "lat": 52.1718,
+            "lng": 0.102476,
+            "name": "Trumpington Meadows Bird Carving "
+        },
+        "a1c294b8d14c403694cc52775a008312.16": {
+            "guid": "a1c294b8d14c403694cc52775a008312.16",
+            "lat": 52.194412,
+            "lng": 0.130221,
+            "name": "Lilian M. Mudge Bench"
+        },
+        "a3ad30407f804291a200f2a3ce40ea11.16": {
+            "guid": "a3ad30407f804291a200f2a3ce40ea11.16",
+            "lat": 52.160764,
+            "lng": 0.127465,
+            "name": "Scotsdale's Squirting Elephant"
+        },
+        "a47640fa084a47a28b0803f3d80a7e39.16": {
+            "guid": "a47640fa084a47a28b0803f3d80a7e39.16",
+            "lat": 52.168437,
+            "lng": 0.12364,
+            "name": "Cornwell Road Play Area "
+        },
+        "a4f9123f0571430794c6e515cd20bd8d.16": {
+            "guid": "a4f9123f0571430794c6e515cd20bd8d.16",
+            "lat": 52.197147,
+            "lng": 0.134855,
+            "name": "Cannons Green Community Notice Board"
+        },
+        "aa11b6b9e2894b54a0d467917fee0bc7.16": {
+            "guid": "aa11b6b9e2894b54a0d467917fee0bc7.16",
+            "lat": 52.199548,
+            "lng": 0.121292,
+            "name": "Old Addenbrookes Plaque"
+        },
+        "aa33fa2b18894767a5f1414e32056f11.16": {
+            "guid": "aa33fa2b18894767a5f1414e32056f11.16",
+            "lat": 52.194627,
+            "lng": 0.134887,
+            "name": "Microsoft's Building Art"
+        },
+        "ab957fc36bae43dfa7a89bfdc226f085.16": {
+            "guid": "ab957fc36bae43dfa7a89bfdc226f085.16",
+            "lat": 52.201364,
+            "lng": 0.130418,
+            "name": "Parkside Swimming Pool"
+        },
+        "ad7c3b275af44f16b260db688bf6e233.16": {
+            "guid": "ad7c3b275af44f16b260db688bf6e233.16",
+            "lat": 52.113993,
+            "lng": 0.035725,
+            "name": "Giant Gorilla Statue"
+        },
+        "af9626fb42904042ae4175de2756b8d0.16": {
+            "guid": "af9626fb42904042ae4175de2756b8d0.16",
+            "lat": 52.19274,
+            "lng": 0.133066,
+            "name": "Clock Tower 2"
+        },
+        "affd84e1a1cc4c3abd27db3beac9bc98.16": {
+            "guid": "affd84e1a1cc4c3abd27db3beac9bc98.16",
+            "lat": 52.206204,
+            "lng": 0.121689,
+            "name": "Old City Wall Gate"
+        },
+        "b27a60efbb064bf3867ad08c8265f3dd.16": {
+            "guid": "b27a60efbb064bf3867ad08c8265f3dd.16",
+            "lat": 52.202758,
+            "lng": 0.132419,
+            "name": "Playground"
+        },
+        "b42337a93a364d8785561d35e9a56673.16": {
+            "guid": "b42337a93a364d8785561d35e9a56673.16",
+            "lat": 52.167382,
+            "lng": 0.115649,
+            "name": "Exeter Close Play Area"
+        },
+        "b784207d76e84c89be4809ab6b114b22.16": {
+            "guid": "b784207d76e84c89be4809ab6b114b22.16",
+            "lat": 52.200451,
+            "lng": 0.120604,
+            "name": "Charlee Darwn Lived Here"
+        },
+        "b899fb21f2bf4e03a949e3c71fb75186.16": {
+            "guid": "b899fb21f2bf4e03a949e3c71fb75186.16",
+            "lat": 52.169716,
+            "lng": 0.121254,
+            "name": "Hobson Road Play Area"
+        },
+        "b8e329fe416847aa8141ecfaaf9830d3.16": {
+            "guid": "b8e329fe416847aa8141ecfaaf9830d3.16",
+            "lat": 52.170555,
+            "lng": 0.118113,
+            "name": "Trumpington Allotments"
+        },
+        "b92487a9dbb94ddea7ff1426054ceccf.11": {
+            "guid": "b92487a9dbb94ddea7ff1426054ceccf.11",
+            "lat": 52.20545,
+            "lng": 0.121377,
+            "name": "Fosters Bank"
+        },
+        "ba140c850aaa4fbca173ebd3282f5df4.16": {
+            "guid": "ba140c850aaa4fbca173ebd3282f5df4.16",
+            "lat": 52.206453,
+            "lng": 0.118678,
+            "name": "Two Statues"
+        },
+        "bafbdc85e4a84452bf5d895325c0456f.16": {
+            "guid": "bafbdc85e4a84452bf5d895325c0456f.16",
+            "lat": 52.201493,
+            "lng": 0.125232,
+            "name": "Downing College Gate"
+        },
+        "bb72bb6135954374a10c9ff926480b9e.11": {
+            "guid": "bb72bb6135954374a10c9ff926480b9e.11",
+            "lat": 52.206747,
+            "lng": 0.129219,
+            "name": "Eden Chapel"
+        },
+        "bc9d282691df4900be77dfefdb108c20.16": {
+            "guid": "bc9d282691df4900be77dfefdb108c20.16",
+            "lat": 52.171157,
+            "lng": 0.101143,
+            "name": "Trumpington Meadows Trail Marker 4"
+        },
+        "be30e814f5044c15aa24fb2c6f294994.16": {
+            "guid": "be30e814f5044c15aa24fb2c6f294994.16",
+            "lat": 52.194731,
+            "lng": 0.123994,
+            "name": "Lilian Bench in Botanic Garden"
+        },
+        "be82d0303e72498680551add1e6e8f00.16": {
+            "guid": "be82d0303e72498680551add1e6e8f00.16",
+            "lat": 52.106916,
+            "lng": 0.026608,
+            "name": "Welcome to Shepreth L-Moor"
+        },
+        "c1d0050e81c5440484a009b295eeaa1a.16": {
+            "guid": "c1d0050e81c5440484a009b295eeaa1a.16",
+            "lat": 52.201281,
+            "lng": 0.13145,
+            "name": "Parkside Mosaic"
+        },
+        "c1e0cefb6dee484db063636db81933c3.16": {
+            "guid": "c1e0cefb6dee484db063636db81933c3.16",
+            "lat": 52.205676,
+            "lng": 0.116365,
+            "name": "AD 1883"
+        },
+        "c2a45484205249ac98eccdc8df4658b8.16": {
+            "guid": "c2a45484205249ac98eccdc8df4658b8.16",
+            "lat": 52.176893,
+            "lng": 0.112829,
+            "name": "The Coach & Horses"
+        },
+        "c4adb86e09fd48918c5d3cc1a4cac533.16": {
+            "guid": "c4adb86e09fd48918c5d3cc1a4cac533.16",
+            "lat": 52.201608,
+            "lng": 0.118526,
+            "name": "Pembroke War Memorial"
+        },
+        "c78f715a11d646118206024742a15512.16": {
+            "guid": "c78f715a11d646118206024742a15512.16",
+            "lat": 52.206767,
+            "lng": 0.132871,
+            "name": "Cambridge Heidelberg Partnership"
+        },
+        "c8f1d36227c542ea8219c4741c466cdb.16": {
+            "guid": "c8f1d36227c542ea8219c4741c466cdb.16",
+            "lat": 52.166838,
+            "lng": 0.121966,
+            "name": "Stone Sculptures On Skylark Road "
+        },
+        "caa1ae30fea44b7eb18ddd0069584530.16": {
+            "guid": "caa1ae30fea44b7eb18ddd0069584530.16",
+            "lat": 52.167178,
+            "lng": 0.120152,
+            "name": "Austin Drive Play Area"
+        },
+        "cba43979e5e2444b9ffbd2d7abfb5e4e.16": {
+            "guid": "cba43979e5e2444b9ffbd2d7abfb5e4e.16",
+            "lat": 52.206787,
+            "lng": 0.130428,
+            "name": "Bandstand on Roof of Old Cooperative Society"
+        },
+        "cd566f8e31f84869b41fcd866bc940cf.16": {
+            "guid": "cd566f8e31f84869b41fcd866bc940cf.16",
+            "lat": 52.201613,
+            "lng": 0.123173,
+            "name": "Sir William Hardy Building"
+        },
+        "ce5068cdce9947c69ee805883e1f9f31.16": {
+            "guid": "ce5068cdce9947c69ee805883e1f9f31.16",
+            "lat": 52.196162,
+            "lng": 0.135393,
+            "name": "Ravensworth Playground "
+        },
+        "ce9df28d20a64cb2bc5da2ff04c2db08.16": {
+            "guid": "ce9df28d20a64cb2bc5da2ff04c2db08.16",
+            "lat": 52.202647,
+            "lng": 0.126008,
+            "name": "Hobbs Pavilion"
+        },
+        "d05516b8ad4c4bac87a68bfd97f5480b.11": {
+            "guid": "d05516b8ad4c4bac87a68bfd97f5480b.11",
+            "lat": 52.198675,
+            "lng": 0.121641,
+            "name": "Department of Engineering"
+        },
+        "d1be0ce75ba947cc9bb3a6c83348c247.16": {
+            "guid": "d1be0ce75ba947cc9bb3a6c83348c247.16",
+            "lat": 52.208488,
+            "lng": 0.136046,
+            "name": "Navadhanya Indian Restaurant"
+        },
+        "d2ce4a5615944f16b5192f4438d18b64.16": {
+            "guid": "d2ce4a5615944f16b5192f4438d18b64.16",
+            "lat": 52.171699,
+            "lng": 0.104121,
+            "name": "Trumpington Meadows Trail Marker 1"
+        },
+        "d7ee8e404d62427889f7a2972d850da3.16": {
+            "guid": "d7ee8e404d62427889f7a2972d850da3.16",
+            "lat": 52.170356,
+            "lng": 0.099884,
+            "name": "Trumpington Meadows Carved Rabbit"
+        },
+        "d8e8edf9255f4ea2be51e9db9608498e.16": {
+            "guid": "d8e8edf9255f4ea2be51e9db9608498e.16",
+            "lat": 52.169695,
+            "lng": 0.127706,
+            "name": "Hobson's Park Bird Hide (West)"
+        },
+        "d92854f0557046fb9475257e7330a23d.16": {
+            "guid": "d92854f0557046fb9475257e7330a23d.16",
+            "lat": 52.206259,
+            "lng": 0.135055,
+            "name": "Kinetic Sculpture"
+        },
+        "db9dce3e4200403399aaa12556b36c7f.16": {
+            "guid": "db9dce3e4200403399aaa12556b36c7f.16",
+            "lat": 52.194283,
+            "lng": 0.126753,
+            "name": "Cacti from the Arid Lands"
+        },
+        "dd0644bf83fd460e8f82de2d33cdc782.11": {
+            "guid": "dd0644bf83fd460e8f82de2d33cdc782.11",
+            "lat": 52.192147,
+            "lng": 0.133596,
+            "name": "Chauvinist"
+        },
+        "dd8586e25a6c44febe8a5f9adf1824d6.16": {
+            "guid": "dd8586e25a6c44febe8a5f9adf1824d6.16",
+            "lat": 52.202394,
+            "lng": 0.121516,
+            "name": "Department of Plant Sciences"
+        },
+        "de89168e43754fabae0fcfa240ccfba5.16": {
+            "guid": "de89168e43754fabae0fcfa240ccfba5.16",
+            "lat": 52.201801,
+            "lng": 0.138146,
+            "name": "Don't Blink"
+        },
+        "df3bd7b590934671b465e51ff3f9c9c1.11": {
+            "guid": "df3bd7b590934671b465e51ff3f9c9c1.11",
+            "lat": 52.198537,
+            "lng": 0.126375,
+            "name": "Youth - Lux Perpetua Luceat eis"
+        },
+        "e04dd2db01ec4749b18ad0f0a0b89dfb.12": {
+            "guid": "e04dd2db01ec4749b18ad0f0a0b89dfb.12",
+            "lat": 52.205332,
+            "lng": 0.118587,
+            "name": "Soldier: Suffolk Regiment"
+        },
+        "e2a0717362d448d3a990151eb4dd5b2a.16": {
+            "guid": "e2a0717362d448d3a990151eb4dd5b2a.16",
+            "lat": 52.173651,
+            "lng": 0.112588,
+            "name": "Thatch Bunny"
+        },
+        "e2cc013ef3e3412392445072c080bd22.16": {
+            "guid": "e2cc013ef3e3412392445072c080bd22.16",
+            "lat": 52.113287,
+            "lng": 0.034009,
+            "name": "Shepreth Playground"
+        },
+        "e4650a9a4e3843a8a2aeb40a88e20005.11": {
+            "guid": "e4650a9a4e3843a8a2aeb40a88e20005.11",
+            "lat": 52.205257,
+            "lng": 0.120763,
+            "name": "A Time And Place For Marksmanship"
+        },
+        "e7da9227d93f416c8e5c4ee3ed6fedb1.16": {
+            "guid": "e7da9227d93f416c8e5c4ee3ed6fedb1.16",
+            "lat": 52.199649,
+            "lng": 0.126908,
+            "name": "Old Bicycle Shop"
+        },
+        "e927ba11b3ce4cf1927253cbe1bdbf9c.16": {
+            "guid": "e927ba11b3ce4cf1927253cbe1bdbf9c.16",
+            "lat": 52.207513,
+            "lng": 0.126288,
+            "name": "Six Almshouses"
+        },
+        "e97c7c4028e24b608d49b6df38706a6b.16": {
+            "guid": "e97c7c4028e24b608d49b6df38706a6b.16",
+            "lat": 52.202256,
+            "lng": 0.125883,
+            "name": "University Arms Hotel"
+        },
+        "e9fb8189a729442e9f50da1b5e7fe116.16": {
+            "guid": "e9fb8189a729442e9f50da1b5e7fe116.16",
+            "lat": 52.193986,
+            "lng": 0.128377,
+            "name": "Engraved Artwork at the Garden Cafe"
+        },
+        "eb5f00291c7845a69db6d5dcf5430f9d.16": {
+            "guid": "eb5f00291c7845a69db6d5dcf5430f9d.16",
+            "lat": 52.199686,
+            "lng": 0.133726,
+            "name": "ARU Drama Studio"
+        },
+        "ec27e43044964d7e8ddb120de9a61b62.16": {
+            "guid": "ec27e43044964d7e8ddb120de9a61b62.16",
+            "lat": 52.202093,
+            "lng": 0.119389,
+            "name": "Arch in Pembroke College"
+        },
+        "ed631984c92f4fe6b04f4fb06f06c230.16": {
+            "guid": "ed631984c92f4fe6b04f4fb06f06c230.16",
+            "lat": 52.202173,
+            "lng": 0.135964,
+            "name": "Parochial Burial Grouds"
+        },
+        "ef7a0f95dbf941c6ad2ab68347025bf2.16": {
+            "guid": "ef7a0f95dbf941c6ad2ab68347025bf2.16",
+            "lat": 52.201569,
+            "lng": 0.121165,
+            "name": "Sundial"
+        },
+        "f1994e0881094d0383efe72c36489cf6.16": {
+            "guid": "f1994e0881094d0383efe72c36489cf6.16",
+            "lat": 52.204524,
+            "lng": 0.117931,
+            "name": "Corpus Christi Playroom"
+        },
+        "f19cbfa12fb04a01b1caa92b19f5b08d.16": {
+            "guid": "f19cbfa12fb04a01b1caa92b19f5b08d.16",
+            "lat": 52.194095,
+            "lng": 0.123145,
+            "name": "Harry Lintott Chair"
+        },
+        "f1f73abcb49c40019ea692480a670fde.16": {
+            "guid": "f1f73abcb49c40019ea692480a670fde.16",
+            "lat": 52.194627,
+            "lng": 0.137715,
+            "name": "Old Ticket Office"
+        },
+        "f2bf51bc472046a9b14ff44eed5785ad.16": {
+            "guid": "f2bf51bc472046a9b14ff44eed5785ad.16",
+            "lat": 52.200218,
+            "lng": 0.135959,
+            "name": "Abubakr Siddiq Islamic Centre"
+        },
+        "f3ea3b172ca24fb2a3219b9930757477.16": {
+            "guid": "f3ea3b172ca24fb2a3219b9930757477.16",
+            "lat": 52.171018,
+            "lng": 0.09842,
+            "name": "Byron\u2019s Pool Fish Pass"
+        },
+        "f5bb8b43a38e4e919104c12e4b3cd2df.16": {
+            "guid": "f5bb8b43a38e4e919104c12e4b3cd2df.16",
+            "lat": 52.202699,
+            "lng": 0.124088,
+            "name": "St Andrew's Church"
+        },
+        "f5d9d5c2fa18494a84b9f7e3fb38bf4f.16": {
+            "guid": "f5d9d5c2fa18494a84b9f7e3fb38bf4f.16",
+            "lat": 52.113949,
+            "lng": 0.034413,
+            "name": "Shepreth Basketball Court"
+        },
+        "f60e1e3d53604f7c9c1b785d8704cc1e.16": {
+            "guid": "f60e1e3d53604f7c9c1b785d8704cc1e.16",
+            "lat": 52.194154,
+            "lng": 0.123906,
+            "name": "Peter's Seat"
+        },
+        "f97dc87da796491ebcecfc8a1435c879.16": {
+            "guid": "f97dc87da796491ebcecfc8a1435c879.16",
+            "lat": 52.176566,
+            "lng": 0.112999,
+            "name": "The Green Man"
+        },
+        "fa69ea9289fd433295ce95b12e744578.11": {
+            "guid": "fa69ea9289fd433295ce95b12e744578.11",
+            "lat": 52.198677,
+            "lng": 0.123044,
+            "name": "Gurdon Institute"
+        },
+        "fb746fc7d9444943a39b34a89ddabd5a.16": {
+            "guid": "fb746fc7d9444943a39b34a89ddabd5a.16",
+            "lat": 52.208332,
+            "lng": 0.118237,
+            "name": "Cambridge Souvenir Le Souvient Gates"
+        },
+        "fc87be84da064ed19d8924b1cbe0c0dc.11": {
+            "guid": "fc87be84da064ed19d8924b1cbe0c0dc.11",
+            "lat": 52.206241,
+            "lng": 0.124731,
+            "name": "Christ's Pieces Gazebo"
+        },
+        "fdc5dac706b744e2a0213b8621894bbb.16": {
+            "guid": "fdc5dac706b744e2a0213b8621894bbb.16",
+            "lat": 52.19687,
+            "lng": 0.122802,
+            "name": "The Fawcetts"
+        },
+        "ffc9eb34e7614167aacdf5dbb9b64046.16": {
+            "guid": "ffc9eb34e7614167aacdf5dbb9b64046.16",
+            "lat": 52.192961,
+            "lng": 0.129297,
+            "name": "Throne Of The Grass Maze"
+        },
+        "ffea28f325dd4639a4160c824fc490da.16": {
+            "guid": "ffea28f325dd4639a4160c824fc490da.16",
+            "lat": 52.210578,
+            "lng": 0.113482,
+            "name": "Honey Hill"
+        }
+    }
 }
